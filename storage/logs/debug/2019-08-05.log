@@ -1,0 +1,48 @@
+[2019-08-05 03:58:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-05 03:58:41] App\Log.DEBUG: sql运行时间:120.68ms  
+[2019-08-05 03:58:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-05 03:58:45] App\Log.DEBUG: sql运行时间:41.72ms  
+[2019-08-05 03:58:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-05 03:58:47] App\Log.DEBUG: sql运行时间:39.55ms  
+[2019-08-05 03:58:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:56] App\Log.DEBUG: sql运行时间:9.14ms  
+[2019-08-05 03:58:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:58] App\Log.DEBUG: sql运行时间:4.74ms  
+[2019-08-05 03:58:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:58] App\Log.DEBUG: sql运行时间:4.91ms  
+[2019-08-05 03:58:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:59] App\Log.DEBUG: sql运行时间:4.5ms  
+[2019-08-05 03:58:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:59] App\Log.DEBUG: sql运行时间:3.87ms  
+[2019-08-05 03:58:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:59] App\Log.DEBUG: sql运行时间:3.82ms  
+[2019-08-05 03:58:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:59] App\Log.DEBUG: sql运行时间:4.29ms  
+[2019-08-05 03:58:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:58:59] App\Log.DEBUG: sql运行时间:3.17ms  
+[2019-08-05 03:59:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:59:01] App\Log.DEBUG: sql运行时间:4.26ms  
+[2019-08-05 03:59:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:59:01] App\Log.DEBUG: sql运行时间:4.5ms  
+[2019-08-05 03:59:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:59:01] App\Log.DEBUG: sql运行时间:3.27ms  
+[2019-08-05 03:59:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:59:01] App\Log.DEBUG: sql运行时间:3.77ms  
+[2019-08-05 03:59:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,432]  
+[2019-08-05 03:59:02] App\Log.DEBUG: sql运行时间:3.03ms  
+[2019-08-05 03:59:28] App\Log.DEBUG: 运行sql:select * from `videos` order by `see_num` desc limit 30 offset 0, args:[]  
+[2019-08-05 03:59:28] App\Log.DEBUG: sql运行时间:4.38ms  
+[2019-08-05 03:59:39] App\Log.DEBUG: 运行sql:select * from `videos` order by `see_num` desc limit 30 offset 0, args:[]  
+[2019-08-05 03:59:39] App\Log.DEBUG: sql运行时间:4.21ms  
+[2019-08-05 13:28:21] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-05 13:28:21] App\Log.DEBUG: sql运行时间:52.49ms  
+[2019-08-05 13:28:26] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-05 13:28:26] App\Log.DEBUG: sql运行时间:10.11ms  
+[2019-08-05 13:28:31] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-05 13:28:31] App\Log.DEBUG: sql运行时间:6.63ms  
+[2019-08-05 13:28:31] App\Log.DEBUG: 运行sql:insert into `users` (`nickname`, `email`, `password`, `sex`, `app_id`, `updated_at`, `created_at`) values (%s, %s, %s, %s, %s, %s, %s), args:["'$value'","'$value'","'$value'","'$value'","'$value'","'$value'","'$value'"]  
+[2019-08-05 13:28:31] App\Log.DEBUG: sql运行时间:4.87ms  
+[2019-08-05 13:28:44] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-05 13:28:44] App\Log.DEBUG: sql运行时间:7.72ms  
+[2019-08-05 13:28:56] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-05 13:28:56] App\Log.DEBUG: sql运行时间:10.48ms  

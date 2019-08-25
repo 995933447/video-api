@@ -1,0 +1,12 @@
+[2019-08-06 03:28:37] App\Log.DEBUG: 运行sql:select * from `users` where `nickname` = %s and `app_id` = %s limit 1, args:["'$value'","'$value'"]  
+[2019-08-06 03:28:37] App\Log.DEBUG: sql运行时间:98.21ms  
+[2019-08-06 03:28:54] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-06 03:28:54] App\Log.DEBUG: sql运行时间:4.53ms  
+[2019-08-06 03:29:00] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s) as `exists`, args:["'$value'","'$value'"]  
+[2019-08-06 03:29:00] App\Log.DEBUG: sql运行时间:3.7ms  
+[2019-08-06 03:29:00] App\Log.DEBUG: 运行sql:insert into `users` (`nickname`, `email`, `password`, `sex`, `app_id`, `updated_at`, `created_at`) values (%s, %s, %s, %s, %s, %s, %s), args:["'$value'","'$value'","'$value'","'$value'","'$value'","'$value'","'$value'"]  
+[2019-08-06 03:29:00] App\Log.DEBUG: sql运行时间:4.12ms  
+[2019-08-06 03:29:07] App\Log.DEBUG: 运行sql:select * from `users` where `nickname` = %s and `app_id` = %s limit 1, args:["'$value'","'$value'"]  
+[2019-08-06 03:29:07] App\Log.DEBUG: sql运行时间:4.63ms  
+[2019-08-06 03:30:25] App\Log.DEBUG: 运行sql:select * from `users` where `nickname` = %s and `app_id` = %s limit 1, args:["'$value'","'$value'"]  
+[2019-08-06 03:30:25] App\Log.DEBUG: sql运行时间:33.08ms  

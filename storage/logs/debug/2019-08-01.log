@@ -1,0 +1,2190 @@
+[2019-08-01 03:15:49] App\Log.DEBUG: 运行sql:select `name` from `videos` where `id` = %s, args:[430]  
+[2019-08-01 03:15:49] App\Log.DEBUG: sql运行时间:55.69ms  
+[2019-08-01 09:36:21] App\Log.DEBUG: 运行sql:select `name` from `videos` where `id` = %s, args:[430]  
+[2019-08-01 09:36:21] App\Log.DEBUG: sql运行时间:44.68ms  
+[2019-08-01 09:36:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:26] App\Log.DEBUG: sql运行时间:116.99ms  
+[2019-08-01 09:36:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:37] App\Log.DEBUG: sql运行时间:46.07ms  
+[2019-08-01 09:36:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:37] App\Log.DEBUG: sql运行时间:49.18ms  
+[2019-08-01 09:36:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:37] App\Log.DEBUG: sql运行时间:44.42ms  
+[2019-08-01 09:36:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:38] App\Log.DEBUG: sql运行时间:59.28ms  
+[2019-08-01 09:36:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:38] App\Log.DEBUG: sql运行时间:51.03ms  
+[2019-08-01 09:36:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:38] App\Log.DEBUG: sql运行时间:58.2ms  
+[2019-08-01 09:36:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:38] App\Log.DEBUG: sql运行时间:49.29ms  
+[2019-08-01 09:36:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:39] App\Log.DEBUG: sql运行时间:54.12ms  
+[2019-08-01 09:36:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:39] App\Log.DEBUG: sql运行时间:40.72ms  
+[2019-08-01 09:36:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:39] App\Log.DEBUG: sql运行时间:40.79ms  
+[2019-08-01 09:36:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:39] App\Log.DEBUG: sql运行时间:39.4ms  
+[2019-08-01 09:36:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:40] App\Log.DEBUG: sql运行时间:35.81ms  
+[2019-08-01 09:36:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:40] App\Log.DEBUG: sql运行时间:36.71ms  
+[2019-08-01 09:36:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:40] App\Log.DEBUG: sql运行时间:37.87ms  
+[2019-08-01 09:36:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:40] App\Log.DEBUG: sql运行时间:49.05ms  
+[2019-08-01 09:36:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:41] App\Log.DEBUG: sql运行时间:37.62ms  
+[2019-08-01 09:36:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:41] App\Log.DEBUG: sql运行时间:39.03ms  
+[2019-08-01 09:36:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:41] App\Log.DEBUG: sql运行时间:34.42ms  
+[2019-08-01 09:36:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:41] App\Log.DEBUG: sql运行时间:42.13ms  
+[2019-08-01 09:36:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:42] App\Log.DEBUG: sql运行时间:36.98ms  
+[2019-08-01 09:36:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:42] App\Log.DEBUG: sql运行时间:38.54ms  
+[2019-08-01 09:36:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:42] App\Log.DEBUG: sql运行时间:37.78ms  
+[2019-08-01 09:36:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:42] App\Log.DEBUG: sql运行时间:36.37ms  
+[2019-08-01 09:36:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:43] App\Log.DEBUG: sql运行时间:39.75ms  
+[2019-08-01 09:36:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:43] App\Log.DEBUG: sql运行时间:35.56ms  
+[2019-08-01 09:36:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:43] App\Log.DEBUG: sql运行时间:37.12ms  
+[2019-08-01 09:36:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:43] App\Log.DEBUG: sql运行时间:34.71ms  
+[2019-08-01 09:36:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:43] App\Log.DEBUG: sql运行时间:36.05ms  
+[2019-08-01 09:36:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:44] App\Log.DEBUG: sql运行时间:34.35ms  
+[2019-08-01 09:36:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:44] App\Log.DEBUG: sql运行时间:36.73ms  
+[2019-08-01 09:36:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:44] App\Log.DEBUG: sql运行时间:37.52ms  
+[2019-08-01 09:36:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:44] App\Log.DEBUG: sql运行时间:36.77ms  
+[2019-08-01 09:36:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:45] App\Log.DEBUG: sql运行时间:37.61ms  
+[2019-08-01 09:36:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:45] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 09:36:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:45] App\Log.DEBUG: sql运行时间:34.58ms  
+[2019-08-01 09:36:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:45] App\Log.DEBUG: sql运行时间:35.26ms  
+[2019-08-01 09:36:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:46] App\Log.DEBUG: sql运行时间:42.27ms  
+[2019-08-01 09:36:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:46] App\Log.DEBUG: sql运行时间:36.26ms  
+[2019-08-01 09:36:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:46] App\Log.DEBUG: sql运行时间:35.06ms  
+[2019-08-01 09:36:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:46] App\Log.DEBUG: sql运行时间:34.75ms  
+[2019-08-01 09:36:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:47] App\Log.DEBUG: sql运行时间:36.42ms  
+[2019-08-01 09:36:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:47] App\Log.DEBUG: sql运行时间:35.95ms  
+[2019-08-01 09:36:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:47] App\Log.DEBUG: sql运行时间:37.07ms  
+[2019-08-01 09:36:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:47] App\Log.DEBUG: sql运行时间:35.79ms  
+[2019-08-01 09:36:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:48] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:36:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:48] App\Log.DEBUG: sql运行时间:49.6ms  
+[2019-08-01 09:36:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:48] App\Log.DEBUG: sql运行时间:36.83ms  
+[2019-08-01 09:36:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:48] App\Log.DEBUG: sql运行时间:37.83ms  
+[2019-08-01 09:36:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:49] App\Log.DEBUG: sql运行时间:36.28ms  
+[2019-08-01 09:36:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:49] App\Log.DEBUG: sql运行时间:38.57ms  
+[2019-08-01 09:36:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:49] App\Log.DEBUG: sql运行时间:36.78ms  
+[2019-08-01 09:36:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:49] App\Log.DEBUG: sql运行时间:35.05ms  
+[2019-08-01 09:36:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:50] App\Log.DEBUG: sql运行时间:39.14ms  
+[2019-08-01 09:36:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:50] App\Log.DEBUG: sql运行时间:39.27ms  
+[2019-08-01 09:36:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:50] App\Log.DEBUG: sql运行时间:35.24ms  
+[2019-08-01 09:36:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:50] App\Log.DEBUG: sql运行时间:35.86ms  
+[2019-08-01 09:36:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:51] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:36:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:51] App\Log.DEBUG: sql运行时间:39.93ms  
+[2019-08-01 09:36:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:51] App\Log.DEBUG: sql运行时间:43.35ms  
+[2019-08-01 09:36:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:51] App\Log.DEBUG: sql运行时间:35.61ms  
+[2019-08-01 09:36:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:52] App\Log.DEBUG: sql运行时间:35.97ms  
+[2019-08-01 09:36:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:52] App\Log.DEBUG: sql运行时间:40.48ms  
+[2019-08-01 09:36:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:52] App\Log.DEBUG: sql运行时间:35.59ms  
+[2019-08-01 09:36:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:52] App\Log.DEBUG: sql运行时间:36.76ms  
+[2019-08-01 09:36:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:53] App\Log.DEBUG: sql运行时间:35.67ms  
+[2019-08-01 09:36:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:53] App\Log.DEBUG: sql运行时间:39.49ms  
+[2019-08-01 09:36:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:53] App\Log.DEBUG: sql运行时间:37.13ms  
+[2019-08-01 09:36:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:53] App\Log.DEBUG: sql运行时间:35.56ms  
+[2019-08-01 09:36:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:54] App\Log.DEBUG: sql运行时间:37.51ms  
+[2019-08-01 09:36:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:54] App\Log.DEBUG: sql运行时间:38.33ms  
+[2019-08-01 09:36:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:54] App\Log.DEBUG: sql运行时间:41.47ms  
+[2019-08-01 09:36:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:54] App\Log.DEBUG: sql运行时间:35.49ms  
+[2019-08-01 09:36:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:55] App\Log.DEBUG: sql运行时间:34.42ms  
+[2019-08-01 09:36:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:55] App\Log.DEBUG: sql运行时间:37.92ms  
+[2019-08-01 09:36:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:55] App\Log.DEBUG: sql运行时间:35.89ms  
+[2019-08-01 09:36:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:55] App\Log.DEBUG: sql运行时间:35.47ms  
+[2019-08-01 09:36:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:56] App\Log.DEBUG: sql运行时间:35.29ms  
+[2019-08-01 09:36:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:56] App\Log.DEBUG: sql运行时间:35.59ms  
+[2019-08-01 09:36:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:56] App\Log.DEBUG: sql运行时间:37.81ms  
+[2019-08-01 09:36:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:56] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 09:36:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:56] App\Log.DEBUG: sql运行时间:41.04ms  
+[2019-08-01 09:36:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:57] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 09:36:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:57] App\Log.DEBUG: sql运行时间:37.36ms  
+[2019-08-01 09:36:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:57] App\Log.DEBUG: sql运行时间:40.07ms  
+[2019-08-01 09:36:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:57] App\Log.DEBUG: sql运行时间:35.43ms  
+[2019-08-01 09:36:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:58] App\Log.DEBUG: sql运行时间:35.37ms  
+[2019-08-01 09:36:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:58] App\Log.DEBUG: sql运行时间:37.54ms  
+[2019-08-01 09:36:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:58] App\Log.DEBUG: sql运行时间:34.47ms  
+[2019-08-01 09:36:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:58] App\Log.DEBUG: sql运行时间:37.34ms  
+[2019-08-01 09:36:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:59] App\Log.DEBUG: sql运行时间:34.66ms  
+[2019-08-01 09:36:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:59] App\Log.DEBUG: sql运行时间:39.16ms  
+[2019-08-01 09:36:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:59] App\Log.DEBUG: sql运行时间:35.68ms  
+[2019-08-01 09:36:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:36:59] App\Log.DEBUG: sql运行时间:36.3ms  
+[2019-08-01 09:37:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:00] App\Log.DEBUG: sql运行时间:36.84ms  
+[2019-08-01 09:37:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:00] App\Log.DEBUG: sql运行时间:36.6ms  
+[2019-08-01 09:37:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:00] App\Log.DEBUG: sql运行时间:37.51ms  
+[2019-08-01 09:37:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:00] App\Log.DEBUG: sql运行时间:37.71ms  
+[2019-08-01 09:37:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:01] App\Log.DEBUG: sql运行时间:35.72ms  
+[2019-08-01 09:37:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:01] App\Log.DEBUG: sql运行时间:37.72ms  
+[2019-08-01 09:37:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:01] App\Log.DEBUG: sql运行时间:36.59ms  
+[2019-08-01 09:37:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:01] App\Log.DEBUG: sql运行时间:35.02ms  
+[2019-08-01 09:37:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:02] App\Log.DEBUG: sql运行时间:35.37ms  
+[2019-08-01 09:37:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:02] App\Log.DEBUG: sql运行时间:40.71ms  
+[2019-08-01 09:37:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:02] App\Log.DEBUG: sql运行时间:35.75ms  
+[2019-08-01 09:37:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:02] App\Log.DEBUG: sql运行时间:37.23ms  
+[2019-08-01 09:37:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:03] App\Log.DEBUG: sql运行时间:39.04ms  
+[2019-08-01 09:37:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:03] App\Log.DEBUG: sql运行时间:40.9ms  
+[2019-08-01 09:37:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:03] App\Log.DEBUG: sql运行时间:36.53ms  
+[2019-08-01 09:37:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:03] App\Log.DEBUG: sql运行时间:35.29ms  
+[2019-08-01 09:37:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:04] App\Log.DEBUG: sql运行时间:35.35ms  
+[2019-08-01 09:37:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:04] App\Log.DEBUG: sql运行时间:37.93ms  
+[2019-08-01 09:37:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:04] App\Log.DEBUG: sql运行时间:35.76ms  
+[2019-08-01 09:37:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:04] App\Log.DEBUG: sql运行时间:34.74ms  
+[2019-08-01 09:37:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:05] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 09:37:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:05] App\Log.DEBUG: sql运行时间:35.35ms  
+[2019-08-01 09:37:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:05] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:37:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:05] App\Log.DEBUG: sql运行时间:37.54ms  
+[2019-08-01 09:37:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:05] App\Log.DEBUG: sql运行时间:34.26ms  
+[2019-08-01 09:37:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:06] App\Log.DEBUG: sql运行时间:34.53ms  
+[2019-08-01 09:37:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:06] App\Log.DEBUG: sql运行时间:40.11ms  
+[2019-08-01 09:37:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:06] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 09:37:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:06] App\Log.DEBUG: sql运行时间:37.39ms  
+[2019-08-01 09:37:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:07] App\Log.DEBUG: sql运行时间:35.79ms  
+[2019-08-01 09:37:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:07] App\Log.DEBUG: sql运行时间:37.53ms  
+[2019-08-01 09:37:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:07] App\Log.DEBUG: sql运行时间:38.02ms  
+[2019-08-01 09:37:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:07] App\Log.DEBUG: sql运行时间:36.82ms  
+[2019-08-01 09:37:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:08] App\Log.DEBUG: sql运行时间:35.28ms  
+[2019-08-01 09:37:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:08] App\Log.DEBUG: sql运行时间:38.69ms  
+[2019-08-01 09:37:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:08] App\Log.DEBUG: sql运行时间:34.94ms  
+[2019-08-01 09:37:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:08] App\Log.DEBUG: sql运行时间:37.9ms  
+[2019-08-01 09:37:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:09] App\Log.DEBUG: sql运行时间:35.85ms  
+[2019-08-01 09:37:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:09] App\Log.DEBUG: sql运行时间:36ms  
+[2019-08-01 09:37:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:09] App\Log.DEBUG: sql运行时间:35.58ms  
+[2019-08-01 09:37:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:09] App\Log.DEBUG: sql运行时间:43.03ms  
+[2019-08-01 09:37:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:10] App\Log.DEBUG: sql运行时间:37.37ms  
+[2019-08-01 09:37:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:10] App\Log.DEBUG: sql运行时间:38.03ms  
+[2019-08-01 09:37:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:10] App\Log.DEBUG: sql运行时间:36.92ms  
+[2019-08-01 09:37:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:10] App\Log.DEBUG: sql运行时间:34.83ms  
+[2019-08-01 09:37:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:11] App\Log.DEBUG: sql运行时间:36.58ms  
+[2019-08-01 09:37:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:11] App\Log.DEBUG: sql运行时间:36.78ms  
+[2019-08-01 09:37:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:11] App\Log.DEBUG: sql运行时间:38.23ms  
+[2019-08-01 09:37:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:11] App\Log.DEBUG: sql运行时间:34.7ms  
+[2019-08-01 09:37:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:12] App\Log.DEBUG: sql运行时间:34.5ms  
+[2019-08-01 09:37:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:12] App\Log.DEBUG: sql运行时间:36.34ms  
+[2019-08-01 09:37:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:12] App\Log.DEBUG: sql运行时间:39.25ms  
+[2019-08-01 09:37:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:12] App\Log.DEBUG: sql运行时间:40.51ms  
+[2019-08-01 09:37:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:13] App\Log.DEBUG: sql运行时间:46.72ms  
+[2019-08-01 09:37:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:13] App\Log.DEBUG: sql运行时间:34.7ms  
+[2019-08-01 09:37:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:13] App\Log.DEBUG: sql运行时间:36.57ms  
+[2019-08-01 09:37:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:13] App\Log.DEBUG: sql运行时间:35.69ms  
+[2019-08-01 09:37:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:13] App\Log.DEBUG: sql运行时间:34.13ms  
+[2019-08-01 09:37:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:14] App\Log.DEBUG: sql运行时间:34.92ms  
+[2019-08-01 09:37:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:14] App\Log.DEBUG: sql运行时间:36.67ms  
+[2019-08-01 09:37:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:14] App\Log.DEBUG: sql运行时间:35.43ms  
+[2019-08-01 09:37:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:14] App\Log.DEBUG: sql运行时间:34.93ms  
+[2019-08-01 09:37:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:15] App\Log.DEBUG: sql运行时间:40.88ms  
+[2019-08-01 09:37:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:15] App\Log.DEBUG: sql运行时间:37.2ms  
+[2019-08-01 09:37:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:15] App\Log.DEBUG: sql运行时间:35.26ms  
+[2019-08-01 09:37:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:15] App\Log.DEBUG: sql运行时间:36.91ms  
+[2019-08-01 09:37:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:16] App\Log.DEBUG: sql运行时间:35.74ms  
+[2019-08-01 09:37:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:16] App\Log.DEBUG: sql运行时间:35.39ms  
+[2019-08-01 09:37:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:16] App\Log.DEBUG: sql运行时间:35.99ms  
+[2019-08-01 09:37:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:16] App\Log.DEBUG: sql运行时间:36.1ms  
+[2019-08-01 09:37:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:17] App\Log.DEBUG: sql运行时间:35.4ms  
+[2019-08-01 09:37:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:17] App\Log.DEBUG: sql运行时间:39.86ms  
+[2019-08-01 09:37:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:17] App\Log.DEBUG: sql运行时间:36.82ms  
+[2019-08-01 09:37:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:17] App\Log.DEBUG: sql运行时间:35.84ms  
+[2019-08-01 09:37:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:17] App\Log.DEBUG: sql运行时间:36.28ms  
+[2019-08-01 09:37:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:18] App\Log.DEBUG: sql运行时间:34.99ms  
+[2019-08-01 09:37:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:18] App\Log.DEBUG: sql运行时间:38.27ms  
+[2019-08-01 09:37:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:18] App\Log.DEBUG: sql运行时间:36.34ms  
+[2019-08-01 09:37:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:18] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 09:37:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:19] App\Log.DEBUG: sql运行时间:37.1ms  
+[2019-08-01 09:37:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:19] App\Log.DEBUG: sql运行时间:41.32ms  
+[2019-08-01 09:37:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:19] App\Log.DEBUG: sql运行时间:34.79ms  
+[2019-08-01 09:37:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:19] App\Log.DEBUG: sql运行时间:35.4ms  
+[2019-08-01 09:37:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:20] App\Log.DEBUG: sql运行时间:35.24ms  
+[2019-08-01 09:37:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:20] App\Log.DEBUG: sql运行时间:35.62ms  
+[2019-08-01 09:37:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:20] App\Log.DEBUG: sql运行时间:35.81ms  
+[2019-08-01 09:37:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:20] App\Log.DEBUG: sql运行时间:35.23ms  
+[2019-08-01 09:37:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:21] App\Log.DEBUG: sql运行时间:34.91ms  
+[2019-08-01 09:37:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:21] App\Log.DEBUG: sql运行时间:37.41ms  
+[2019-08-01 09:37:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:21] App\Log.DEBUG: sql运行时间:46.13ms  
+[2019-08-01 09:37:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:21] App\Log.DEBUG: sql运行时间:35.16ms  
+[2019-08-01 09:37:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:22] App\Log.DEBUG: sql运行时间:36.42ms  
+[2019-08-01 09:37:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:22] App\Log.DEBUG: sql运行时间:38.32ms  
+[2019-08-01 09:37:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:22] App\Log.DEBUG: sql运行时间:39.71ms  
+[2019-08-01 09:37:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:22] App\Log.DEBUG: sql运行时间:34.89ms  
+[2019-08-01 09:37:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:23] App\Log.DEBUG: sql运行时间:35.18ms  
+[2019-08-01 09:37:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:23] App\Log.DEBUG: sql运行时间:36.55ms  
+[2019-08-01 09:37:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:23] App\Log.DEBUG: sql运行时间:37.74ms  
+[2019-08-01 09:37:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:23] App\Log.DEBUG: sql运行时间:34.59ms  
+[2019-08-01 09:37:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:24] App\Log.DEBUG: sql运行时间:36.73ms  
+[2019-08-01 09:37:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:24] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:37:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:24] App\Log.DEBUG: sql运行时间:37.35ms  
+[2019-08-01 09:37:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:24] App\Log.DEBUG: sql运行时间:37.02ms  
+[2019-08-01 09:37:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:24] App\Log.DEBUG: sql运行时间:34.55ms  
+[2019-08-01 09:37:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:25] App\Log.DEBUG: sql运行时间:34.77ms  
+[2019-08-01 09:37:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:25] App\Log.DEBUG: sql运行时间:36.57ms  
+[2019-08-01 09:37:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:25] App\Log.DEBUG: sql运行时间:35.26ms  
+[2019-08-01 09:37:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:25] App\Log.DEBUG: sql运行时间:34.83ms  
+[2019-08-01 09:37:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:26] App\Log.DEBUG: sql运行时间:35.71ms  
+[2019-08-01 09:37:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:26] App\Log.DEBUG: sql运行时间:36.52ms  
+[2019-08-01 09:37:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:26] App\Log.DEBUG: sql运行时间:35.18ms  
+[2019-08-01 09:37:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:26] App\Log.DEBUG: sql运行时间:35.57ms  
+[2019-08-01 09:37:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:27] App\Log.DEBUG: sql运行时间:35.26ms  
+[2019-08-01 09:37:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:27] App\Log.DEBUG: sql运行时间:37.75ms  
+[2019-08-01 09:37:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:27] App\Log.DEBUG: sql运行时间:37.5ms  
+[2019-08-01 09:37:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:27] App\Log.DEBUG: sql运行时间:36.51ms  
+[2019-08-01 09:37:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:28] App\Log.DEBUG: sql运行时间:35.66ms  
+[2019-08-01 09:37:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:28] App\Log.DEBUG: sql运行时间:37.08ms  
+[2019-08-01 09:37:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:28] App\Log.DEBUG: sql运行时间:34.69ms  
+[2019-08-01 09:37:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:28] App\Log.DEBUG: sql运行时间:37.07ms  
+[2019-08-01 09:37:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:29] App\Log.DEBUG: sql运行时间:48.48ms  
+[2019-08-01 09:37:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:29] App\Log.DEBUG: sql运行时间:39.32ms  
+[2019-08-01 09:37:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:29] App\Log.DEBUG: sql运行时间:36.12ms  
+[2019-08-01 09:37:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:29] App\Log.DEBUG: sql运行时间:34.81ms  
+[2019-08-01 09:37:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:30] App\Log.DEBUG: sql运行时间:35.86ms  
+[2019-08-01 09:37:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:30] App\Log.DEBUG: sql运行时间:36.15ms  
+[2019-08-01 09:37:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:30] App\Log.DEBUG: sql运行时间:37.2ms  
+[2019-08-01 09:37:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:30] App\Log.DEBUG: sql运行时间:35.78ms  
+[2019-08-01 09:37:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:30] App\Log.DEBUG: sql运行时间:36.14ms  
+[2019-08-01 09:37:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:31] App\Log.DEBUG: sql运行时间:37.06ms  
+[2019-08-01 09:37:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:31] App\Log.DEBUG: sql运行时间:36.91ms  
+[2019-08-01 09:37:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:31] App\Log.DEBUG: sql运行时间:35.22ms  
+[2019-08-01 09:37:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:31] App\Log.DEBUG: sql运行时间:35.56ms  
+[2019-08-01 09:37:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:32] App\Log.DEBUG: sql运行时间:34.92ms  
+[2019-08-01 09:37:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:32] App\Log.DEBUG: sql运行时间:35.91ms  
+[2019-08-01 09:37:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:32] App\Log.DEBUG: sql运行时间:37.02ms  
+[2019-08-01 09:37:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:32] App\Log.DEBUG: sql运行时间:36.3ms  
+[2019-08-01 09:37:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:33] App\Log.DEBUG: sql运行时间:37.71ms  
+[2019-08-01 09:37:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:33] App\Log.DEBUG: sql运行时间:36.69ms  
+[2019-08-01 09:37:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:33] App\Log.DEBUG: sql运行时间:35.02ms  
+[2019-08-01 09:37:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:33] App\Log.DEBUG: sql运行时间:34.91ms  
+[2019-08-01 09:37:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:34] App\Log.DEBUG: sql运行时间:34.36ms  
+[2019-08-01 09:37:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:34] App\Log.DEBUG: sql运行时间:37.18ms  
+[2019-08-01 09:37:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:34] App\Log.DEBUG: sql运行时间:35.09ms  
+[2019-08-01 09:37:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:34] App\Log.DEBUG: sql运行时间:34.64ms  
+[2019-08-01 09:37:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:35] App\Log.DEBUG: sql运行时间:35.54ms  
+[2019-08-01 09:37:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:35] App\Log.DEBUG: sql运行时间:40.5ms  
+[2019-08-01 09:37:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:35] App\Log.DEBUG: sql运行时间:34.81ms  
+[2019-08-01 09:37:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:35] App\Log.DEBUG: sql运行时间:39.19ms  
+[2019-08-01 09:37:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:36] App\Log.DEBUG: sql运行时间:36.28ms  
+[2019-08-01 09:37:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:36] App\Log.DEBUG: sql运行时间:41.32ms  
+[2019-08-01 09:37:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:36] App\Log.DEBUG: sql运行时间:44.88ms  
+[2019-08-01 09:37:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:36] App\Log.DEBUG: sql运行时间:36.74ms  
+[2019-08-01 09:37:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:37] App\Log.DEBUG: sql运行时间:35.19ms  
+[2019-08-01 09:37:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:37] App\Log.DEBUG: sql运行时间:37.46ms  
+[2019-08-01 09:37:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:37] App\Log.DEBUG: sql运行时间:38.25ms  
+[2019-08-01 09:37:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:37] App\Log.DEBUG: sql运行时间:37.31ms  
+[2019-08-01 09:37:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:38] App\Log.DEBUG: sql运行时间:39.78ms  
+[2019-08-01 09:37:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:38] App\Log.DEBUG: sql运行时间:40.86ms  
+[2019-08-01 09:37:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:38] App\Log.DEBUG: sql运行时间:40.41ms  
+[2019-08-01 09:37:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:38] App\Log.DEBUG: sql运行时间:36.25ms  
+[2019-08-01 09:37:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:39] App\Log.DEBUG: sql运行时间:35.68ms  
+[2019-08-01 09:37:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:39] App\Log.DEBUG: sql运行时间:42.55ms  
+[2019-08-01 09:37:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:39] App\Log.DEBUG: sql运行时间:35.19ms  
+[2019-08-01 09:37:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:39] App\Log.DEBUG: sql运行时间:48.2ms  
+[2019-08-01 09:37:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:40] App\Log.DEBUG: sql运行时间:37.87ms  
+[2019-08-01 09:37:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:40] App\Log.DEBUG: sql运行时间:44.62ms  
+[2019-08-01 09:37:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:40] App\Log.DEBUG: sql运行时间:36.2ms  
+[2019-08-01 09:37:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:40] App\Log.DEBUG: sql运行时间:47.48ms  
+[2019-08-01 09:37:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:41] App\Log.DEBUG: sql运行时间:35.34ms  
+[2019-08-01 09:37:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:41] App\Log.DEBUG: sql运行时间:40.48ms  
+[2019-08-01 09:37:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:41] App\Log.DEBUG: sql运行时间:36.19ms  
+[2019-08-01 09:37:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:41] App\Log.DEBUG: sql运行时间:36ms  
+[2019-08-01 09:37:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:42] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:37:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:42] App\Log.DEBUG: sql运行时间:39.18ms  
+[2019-08-01 09:37:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:42] App\Log.DEBUG: sql运行时间:47.76ms  
+[2019-08-01 09:37:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:42] App\Log.DEBUG: sql运行时间:34.59ms  
+[2019-08-01 09:37:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:43] App\Log.DEBUG: sql运行时间:36.13ms  
+[2019-08-01 09:37:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:43] App\Log.DEBUG: sql运行时间:37.64ms  
+[2019-08-01 09:37:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:43] App\Log.DEBUG: sql运行时间:38.68ms  
+[2019-08-01 09:37:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:43] App\Log.DEBUG: sql运行时间:35.87ms  
+[2019-08-01 09:37:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:44] App\Log.DEBUG: sql运行时间:39.82ms  
+[2019-08-01 09:37:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:44] App\Log.DEBUG: sql运行时间:41.09ms  
+[2019-08-01 09:37:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:44] App\Log.DEBUG: sql运行时间:35.84ms  
+[2019-08-01 09:37:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:44] App\Log.DEBUG: sql运行时间:35.51ms  
+[2019-08-01 09:37:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:45] App\Log.DEBUG: sql运行时间:48.48ms  
+[2019-08-01 09:37:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:45] App\Log.DEBUG: sql运行时间:42.94ms  
+[2019-08-01 09:37:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:45] App\Log.DEBUG: sql运行时间:42.05ms  
+[2019-08-01 09:37:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:45] App\Log.DEBUG: sql运行时间:34.7ms  
+[2019-08-01 09:37:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:46] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 09:37:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:46] App\Log.DEBUG: sql运行时间:39.05ms  
+[2019-08-01 09:37:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:46] App\Log.DEBUG: sql运行时间:38.39ms  
+[2019-08-01 09:37:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:46] App\Log.DEBUG: sql运行时间:35.5ms  
+[2019-08-01 09:37:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:47] App\Log.DEBUG: sql运行时间:45.3ms  
+[2019-08-01 09:37:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:47] App\Log.DEBUG: sql运行时间:36.79ms  
+[2019-08-01 09:37:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:47] App\Log.DEBUG: sql运行时间:34.68ms  
+[2019-08-01 09:37:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:47] App\Log.DEBUG: sql运行时间:34.42ms  
+[2019-08-01 09:37:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:48] App\Log.DEBUG: sql运行时间:35.2ms  
+[2019-08-01 09:37:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:48] App\Log.DEBUG: sql运行时间:55.03ms  
+[2019-08-01 09:37:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:48] App\Log.DEBUG: sql运行时间:35.58ms  
+[2019-08-01 09:37:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:48] App\Log.DEBUG: sql运行时间:36.05ms  
+[2019-08-01 09:37:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:49] App\Log.DEBUG: sql运行时间:34.04ms  
+[2019-08-01 09:37:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:49] App\Log.DEBUG: sql运行时间:37.35ms  
+[2019-08-01 09:37:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:49] App\Log.DEBUG: sql运行时间:37.12ms  
+[2019-08-01 09:37:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:49] App\Log.DEBUG: sql运行时间:35.73ms  
+[2019-08-01 09:37:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:50] App\Log.DEBUG: sql运行时间:34.05ms  
+[2019-08-01 09:37:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:50] App\Log.DEBUG: sql运行时间:36.6ms  
+[2019-08-01 09:37:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:50] App\Log.DEBUG: sql运行时间:44.39ms  
+[2019-08-01 09:37:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:50] App\Log.DEBUG: sql运行时间:34.4ms  
+[2019-08-01 09:37:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:50] App\Log.DEBUG: sql运行时间:38.81ms  
+[2019-08-01 09:37:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:51] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 09:37:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:51] App\Log.DEBUG: sql运行时间:37.29ms  
+[2019-08-01 09:37:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:51] App\Log.DEBUG: sql运行时间:35.46ms  
+[2019-08-01 09:37:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:51] App\Log.DEBUG: sql运行时间:35.75ms  
+[2019-08-01 09:37:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:52] App\Log.DEBUG: sql运行时间:35.02ms  
+[2019-08-01 09:37:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:52] App\Log.DEBUG: sql运行时间:35.99ms  
+[2019-08-01 09:37:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:52] App\Log.DEBUG: sql运行时间:54.35ms  
+[2019-08-01 09:37:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:52] App\Log.DEBUG: sql运行时间:36.08ms  
+[2019-08-01 09:37:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:53] App\Log.DEBUG: sql运行时间:35.06ms  
+[2019-08-01 09:37:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:53] App\Log.DEBUG: sql运行时间:39.65ms  
+[2019-08-01 09:37:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:53] App\Log.DEBUG: sql运行时间:36.14ms  
+[2019-08-01 09:37:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:53] App\Log.DEBUG: sql运行时间:34.32ms  
+[2019-08-01 09:37:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:54] App\Log.DEBUG: sql运行时间:36.72ms  
+[2019-08-01 09:37:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:54] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 09:37:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:54] App\Log.DEBUG: sql运行时间:37.44ms  
+[2019-08-01 09:37:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:54] App\Log.DEBUG: sql运行时间:45.24ms  
+[2019-08-01 09:37:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:55] App\Log.DEBUG: sql运行时间:36.43ms  
+[2019-08-01 09:37:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:55] App\Log.DEBUG: sql运行时间:35.75ms  
+[2019-08-01 09:37:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:55] App\Log.DEBUG: sql运行时间:35.04ms  
+[2019-08-01 09:37:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:55] App\Log.DEBUG: sql运行时间:37.52ms  
+[2019-08-01 09:37:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:55] App\Log.DEBUG: sql运行时间:34.81ms  
+[2019-08-01 09:37:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:56] App\Log.DEBUG: sql运行时间:35.19ms  
+[2019-08-01 09:37:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:56] App\Log.DEBUG: sql运行时间:37.48ms  
+[2019-08-01 09:37:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:56] App\Log.DEBUG: sql运行时间:36.75ms  
+[2019-08-01 09:37:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:56] App\Log.DEBUG: sql运行时间:35.22ms  
+[2019-08-01 09:37:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:57] App\Log.DEBUG: sql运行时间:35.25ms  
+[2019-08-01 09:37:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:57] App\Log.DEBUG: sql运行时间:37.12ms  
+[2019-08-01 09:37:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:57] App\Log.DEBUG: sql运行时间:33.66ms  
+[2019-08-01 09:37:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:57] App\Log.DEBUG: sql运行时间:35.9ms  
+[2019-08-01 09:37:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:58] App\Log.DEBUG: sql运行时间:36.18ms  
+[2019-08-01 09:37:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:58] App\Log.DEBUG: sql运行时间:45.14ms  
+[2019-08-01 09:37:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:58] App\Log.DEBUG: sql运行时间:37.78ms  
+[2019-08-01 09:37:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:58] App\Log.DEBUG: sql运行时间:34.81ms  
+[2019-08-01 09:37:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:59] App\Log.DEBUG: sql运行时间:34.16ms  
+[2019-08-01 09:37:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:59] App\Log.DEBUG: sql运行时间:36.24ms  
+[2019-08-01 09:37:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:59] App\Log.DEBUG: sql运行时间:35.32ms  
+[2019-08-01 09:37:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:37:59] App\Log.DEBUG: sql运行时间:35.18ms  
+[2019-08-01 09:38:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:00] App\Log.DEBUG: sql运行时间:37.44ms  
+[2019-08-01 09:38:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:00] App\Log.DEBUG: sql运行时间:35.79ms  
+[2019-08-01 09:38:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:00] App\Log.DEBUG: sql运行时间:35.27ms  
+[2019-08-01 09:38:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:00] App\Log.DEBUG: sql运行时间:34.24ms  
+[2019-08-01 09:38:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:01] App\Log.DEBUG: sql运行时间:35.47ms  
+[2019-08-01 09:38:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:01] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:38:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:01] App\Log.DEBUG: sql运行时间:39.46ms  
+[2019-08-01 09:38:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:01] App\Log.DEBUG: sql运行时间:35.77ms  
+[2019-08-01 09:38:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:01] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 09:38:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:02] App\Log.DEBUG: sql运行时间:45.28ms  
+[2019-08-01 09:38:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:02] App\Log.DEBUG: sql运行时间:37.37ms  
+[2019-08-01 09:38:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:02] App\Log.DEBUG: sql运行时间:35.87ms  
+[2019-08-01 09:38:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:02] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:38:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:03] App\Log.DEBUG: sql运行时间:34.91ms  
+[2019-08-01 09:38:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:03] App\Log.DEBUG: sql运行时间:37.55ms  
+[2019-08-01 09:38:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:03] App\Log.DEBUG: sql运行时间:36.9ms  
+[2019-08-01 09:38:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:03] App\Log.DEBUG: sql运行时间:35.66ms  
+[2019-08-01 09:38:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:04] App\Log.DEBUG: sql运行时间:33.76ms  
+[2019-08-01 09:38:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:04] App\Log.DEBUG: sql运行时间:52.98ms  
+[2019-08-01 09:38:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:04] App\Log.DEBUG: sql运行时间:35.08ms  
+[2019-08-01 09:38:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:04] App\Log.DEBUG: sql运行时间:36.52ms  
+[2019-08-01 09:38:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:05] App\Log.DEBUG: sql运行时间:35.61ms  
+[2019-08-01 09:38:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:05] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 09:38:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:05] App\Log.DEBUG: sql运行时间:36.37ms  
+[2019-08-01 09:38:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:05] App\Log.DEBUG: sql运行时间:35.52ms  
+[2019-08-01 09:38:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:06] App\Log.DEBUG: sql运行时间:34.88ms  
+[2019-08-01 09:38:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:06] App\Log.DEBUG: sql运行时间:35.59ms  
+[2019-08-01 09:38:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:06] App\Log.DEBUG: sql运行时间:50.33ms  
+[2019-08-01 09:38:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:06] App\Log.DEBUG: sql运行时间:34.15ms  
+[2019-08-01 09:38:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:07] App\Log.DEBUG: sql运行时间:35.03ms  
+[2019-08-01 09:38:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:07] App\Log.DEBUG: sql运行时间:35.69ms  
+[2019-08-01 09:38:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:07] App\Log.DEBUG: sql运行时间:39.42ms  
+[2019-08-01 09:38:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:07] App\Log.DEBUG: sql运行时间:35.95ms  
+[2019-08-01 09:38:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:08] App\Log.DEBUG: sql运行时间:35.31ms  
+[2019-08-01 09:38:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:08] App\Log.DEBUG: sql运行时间:35.93ms  
+[2019-08-01 09:38:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:08] App\Log.DEBUG: sql运行时间:37.37ms  
+[2019-08-01 09:38:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:08] App\Log.DEBUG: sql运行时间:35.71ms  
+[2019-08-01 09:38:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:08] App\Log.DEBUG: sql运行时间:34.9ms  
+[2019-08-01 09:38:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:09] App\Log.DEBUG: sql运行时间:34.25ms  
+[2019-08-01 09:38:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:09] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 09:38:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:38:09] App\Log.DEBUG: sql运行时间:35.55ms  
+[2019-08-01 09:45:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:01] App\Log.DEBUG: sql运行时间:50.56ms  
+[2019-08-01 09:45:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:01] App\Log.DEBUG: sql运行时间:36.4ms  
+[2019-08-01 09:45:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:01] App\Log.DEBUG: sql运行时间:53.86ms  
+[2019-08-01 09:45:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:01] App\Log.DEBUG: sql运行时间:36.53ms  
+[2019-08-01 09:45:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:02] App\Log.DEBUG: sql运行时间:34.78ms  
+[2019-08-01 09:45:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:02] App\Log.DEBUG: sql运行时间:39.26ms  
+[2019-08-01 09:45:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:02] App\Log.DEBUG: sql运行时间:35.39ms  
+[2019-08-01 09:45:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:02] App\Log.DEBUG: sql运行时间:35.89ms  
+[2019-08-01 09:45:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:03] App\Log.DEBUG: sql运行时间:34.35ms  
+[2019-08-01 09:45:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:03] App\Log.DEBUG: sql运行时间:44.55ms  
+[2019-08-01 09:45:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:03] App\Log.DEBUG: sql运行时间:36.2ms  
+[2019-08-01 09:45:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:03] App\Log.DEBUG: sql运行时间:35.92ms  
+[2019-08-01 09:45:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:04] App\Log.DEBUG: sql运行时间:36.43ms  
+[2019-08-01 09:45:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:04] App\Log.DEBUG: sql运行时间:39.78ms  
+[2019-08-01 09:45:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:04] App\Log.DEBUG: sql运行时间:35.95ms  
+[2019-08-01 09:45:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:04] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 09:45:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:05] App\Log.DEBUG: sql运行时间:34.19ms  
+[2019-08-01 09:45:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:05] App\Log.DEBUG: sql运行时间:38.65ms  
+[2019-08-01 09:45:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:05] App\Log.DEBUG: sql运行时间:35.25ms  
+[2019-08-01 09:45:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:05] App\Log.DEBUG: sql运行时间:36.47ms  
+[2019-08-01 09:45:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:06] App\Log.DEBUG: sql运行时间:34.99ms  
+[2019-08-01 09:45:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:06] App\Log.DEBUG: sql运行时间:34.82ms  
+[2019-08-01 09:45:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:06] App\Log.DEBUG: sql运行时间:38.2ms  
+[2019-08-01 09:45:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:06] App\Log.DEBUG: sql运行时间:36.63ms  
+[2019-08-01 09:45:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:06] App\Log.DEBUG: sql运行时间:47.35ms  
+[2019-08-01 09:45:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:07] App\Log.DEBUG: sql运行时间:35.18ms  
+[2019-08-01 09:45:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:07] App\Log.DEBUG: sql运行时间:36.4ms  
+[2019-08-01 09:45:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:07] App\Log.DEBUG: sql运行时间:34.57ms  
+[2019-08-01 09:45:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:07] App\Log.DEBUG: sql运行时间:35.21ms  
+[2019-08-01 09:45:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:08] App\Log.DEBUG: sql运行时间:37.31ms  
+[2019-08-01 09:45:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:08] App\Log.DEBUG: sql运行时间:38.89ms  
+[2019-08-01 09:45:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:08] App\Log.DEBUG: sql运行时间:37.92ms  
+[2019-08-01 09:45:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:08] App\Log.DEBUG: sql运行时间:36.15ms  
+[2019-08-01 09:45:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:09] App\Log.DEBUG: sql运行时间:37.05ms  
+[2019-08-01 09:45:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:09] App\Log.DEBUG: sql运行时间:36.71ms  
+[2019-08-01 09:45:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:09] App\Log.DEBUG: sql运行时间:35.28ms  
+[2019-08-01 09:45:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:09] App\Log.DEBUG: sql运行时间:37.51ms  
+[2019-08-01 09:45:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:10] App\Log.DEBUG: sql运行时间:35.31ms  
+[2019-08-01 09:45:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:10] App\Log.DEBUG: sql运行时间:36.41ms  
+[2019-08-01 09:45:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:10] App\Log.DEBUG: sql运行时间:34.53ms  
+[2019-08-01 09:45:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:10] App\Log.DEBUG: sql运行时间:35.86ms  
+[2019-08-01 09:45:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:11] App\Log.DEBUG: sql运行时间:35.2ms  
+[2019-08-01 09:45:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:11] App\Log.DEBUG: sql运行时间:37.16ms  
+[2019-08-01 09:45:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:11] App\Log.DEBUG: sql运行时间:36.48ms  
+[2019-08-01 09:45:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:11] App\Log.DEBUG: sql运行时间:34.22ms  
+[2019-08-01 09:45:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:12] App\Log.DEBUG: sql运行时间:34.9ms  
+[2019-08-01 09:45:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:12] App\Log.DEBUG: sql运行时间:35.62ms  
+[2019-08-01 09:45:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:12] App\Log.DEBUG: sql运行时间:36.92ms  
+[2019-08-01 09:45:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:12] App\Log.DEBUG: sql运行时间:35.89ms  
+[2019-08-01 09:45:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:12] App\Log.DEBUG: sql运行时间:37.19ms  
+[2019-08-01 09:45:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:13] App\Log.DEBUG: sql运行时间:35.5ms  
+[2019-08-01 09:45:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:13] App\Log.DEBUG: sql运行时间:40.21ms  
+[2019-08-01 09:45:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:13] App\Log.DEBUG: sql运行时间:37.18ms  
+[2019-08-01 09:45:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:13] App\Log.DEBUG: sql运行时间:37.17ms  
+[2019-08-01 09:45:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:14] App\Log.DEBUG: sql运行时间:36.74ms  
+[2019-08-01 09:45:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:14] App\Log.DEBUG: sql运行时间:40.06ms  
+[2019-08-01 09:45:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:14] App\Log.DEBUG: sql运行时间:37.29ms  
+[2019-08-01 09:45:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:14] App\Log.DEBUG: sql运行时间:35.37ms  
+[2019-08-01 09:45:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:15] App\Log.DEBUG: sql运行时间:35.18ms  
+[2019-08-01 09:45:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:15] App\Log.DEBUG: sql运行时间:36.94ms  
+[2019-08-01 09:45:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:15] App\Log.DEBUG: sql运行时间:40.1ms  
+[2019-08-01 09:45:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:15] App\Log.DEBUG: sql运行时间:35.32ms  
+[2019-08-01 09:45:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:16] App\Log.DEBUG: sql运行时间:36.23ms  
+[2019-08-01 09:45:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:16] App\Log.DEBUG: sql运行时间:35.94ms  
+[2019-08-01 09:45:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:16] App\Log.DEBUG: sql运行时间:35.77ms  
+[2019-08-01 09:45:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:16] App\Log.DEBUG: sql运行时间:35.82ms  
+[2019-08-01 09:45:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:17] App\Log.DEBUG: sql运行时间:35.82ms  
+[2019-08-01 09:45:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:17] App\Log.DEBUG: sql运行时间:37.73ms  
+[2019-08-01 09:45:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:17] App\Log.DEBUG: sql运行时间:35.71ms  
+[2019-08-01 09:45:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:17] App\Log.DEBUG: sql运行时间:36.72ms  
+[2019-08-01 09:45:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:18] App\Log.DEBUG: sql运行时间:34.77ms  
+[2019-08-01 09:45:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:18] App\Log.DEBUG: sql运行时间:36.78ms  
+[2019-08-01 09:45:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:18] App\Log.DEBUG: sql运行时间:37.57ms  
+[2019-08-01 09:45:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:18] App\Log.DEBUG: sql运行时间:45.39ms  
+[2019-08-01 09:45:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:19] App\Log.DEBUG: sql运行时间:35.6ms  
+[2019-08-01 09:45:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:19] App\Log.DEBUG: sql运行时间:36.25ms  
+[2019-08-01 09:45:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:19] App\Log.DEBUG: sql运行时间:38.7ms  
+[2019-08-01 09:45:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:19] App\Log.DEBUG: sql运行时间:36.05ms  
+[2019-08-01 09:45:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:20] App\Log.DEBUG: sql运行时间:35.47ms  
+[2019-08-01 09:45:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:20] App\Log.DEBUG: sql运行时间:36.02ms  
+[2019-08-01 09:45:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:20] App\Log.DEBUG: sql运行时间:36.73ms  
+[2019-08-01 09:45:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:20] App\Log.DEBUG: sql运行时间:35.52ms  
+[2019-08-01 09:45:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:21] App\Log.DEBUG: sql运行时间:35.19ms  
+[2019-08-01 09:45:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:21] App\Log.DEBUG: sql运行时间:35.9ms  
+[2019-08-01 09:45:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:21] App\Log.DEBUG: sql运行时间:37.59ms  
+[2019-08-01 09:45:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:21] App\Log.DEBUG: sql运行时间:36.92ms  
+[2019-08-01 09:45:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:21] App\Log.DEBUG: sql运行时间:40.61ms  
+[2019-08-01 09:45:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:22] App\Log.DEBUG: sql运行时间:35.63ms  
+[2019-08-01 09:45:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:22] App\Log.DEBUG: sql运行时间:37.46ms  
+[2019-08-01 09:45:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:22] App\Log.DEBUG: sql运行时间:38.97ms  
+[2019-08-01 09:45:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:22] App\Log.DEBUG: sql运行时间:34.56ms  
+[2019-08-01 09:45:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:23] App\Log.DEBUG: sql运行时间:35.89ms  
+[2019-08-01 09:45:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:23] App\Log.DEBUG: sql运行时间:38.26ms  
+[2019-08-01 09:45:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:23] App\Log.DEBUG: sql运行时间:38.57ms  
+[2019-08-01 09:45:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:23] App\Log.DEBUG: sql运行时间:35.84ms  
+[2019-08-01 09:45:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:24] App\Log.DEBUG: sql运行时间:46.8ms  
+[2019-08-01 09:45:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:24] App\Log.DEBUG: sql运行时间:34.96ms  
+[2019-08-01 09:45:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:24] App\Log.DEBUG: sql运行时间:35.09ms  
+[2019-08-01 09:45:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:24] App\Log.DEBUG: sql运行时间:37.81ms  
+[2019-08-01 09:45:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:25] App\Log.DEBUG: sql运行时间:36.77ms  
+[2019-08-01 09:45:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:25] App\Log.DEBUG: sql运行时间:39.88ms  
+[2019-08-01 09:45:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:25] App\Log.DEBUG: sql运行时间:37.84ms  
+[2019-08-01 09:45:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:25] App\Log.DEBUG: sql运行时间:35.62ms  
+[2019-08-01 09:45:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:26] App\Log.DEBUG: sql运行时间:39.27ms  
+[2019-08-01 09:45:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:26] App\Log.DEBUG: sql运行时间:38.91ms  
+[2019-08-01 09:45:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:26] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 09:45:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:26] App\Log.DEBUG: sql运行时间:36.1ms  
+[2019-08-01 09:45:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:27] App\Log.DEBUG: sql运行时间:34.28ms  
+[2019-08-01 09:45:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:27] App\Log.DEBUG: sql运行时间:53.84ms  
+[2019-08-01 09:45:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:27] App\Log.DEBUG: sql运行时间:36.22ms  
+[2019-08-01 09:45:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:27] App\Log.DEBUG: sql运行时间:36.06ms  
+[2019-08-01 09:45:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:28] App\Log.DEBUG: sql运行时间:37.98ms  
+[2019-08-01 09:45:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:28] App\Log.DEBUG: sql运行时间:38.92ms  
+[2019-08-01 09:45:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:28] App\Log.DEBUG: sql运行时间:34.51ms  
+[2019-08-01 09:45:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:28] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 09:45:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:29] App\Log.DEBUG: sql运行时间:36.61ms  
+[2019-08-01 09:45:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:29] App\Log.DEBUG: sql运行时间:36.17ms  
+[2019-08-01 09:45:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:29] App\Log.DEBUG: sql运行时间:57.96ms  
+[2019-08-01 09:45:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:29] App\Log.DEBUG: sql运行时间:40.6ms  
+[2019-08-01 09:45:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:30] App\Log.DEBUG: sql运行时间:37.11ms  
+[2019-08-01 09:45:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:30] App\Log.DEBUG: sql运行时间:38.76ms  
+[2019-08-01 09:45:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:30] App\Log.DEBUG: sql运行时间:35.86ms  
+[2019-08-01 09:45:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:30] App\Log.DEBUG: sql运行时间:38.45ms  
+[2019-08-01 09:45:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:31] App\Log.DEBUG: sql运行时间:40.91ms  
+[2019-08-01 09:45:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:31] App\Log.DEBUG: sql运行时间:39.35ms  
+[2019-08-01 09:45:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:31] App\Log.DEBUG: sql运行时间:38.98ms  
+[2019-08-01 09:45:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:31] App\Log.DEBUG: sql运行时间:36.11ms  
+[2019-08-01 09:45:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:32] App\Log.DEBUG: sql运行时间:37.86ms  
+[2019-08-01 09:45:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:32] App\Log.DEBUG: sql运行时间:35.9ms  
+[2019-08-01 09:45:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:32] App\Log.DEBUG: sql运行时间:36.29ms  
+[2019-08-01 09:45:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:32] App\Log.DEBUG: sql运行时间:36.45ms  
+[2019-08-01 09:45:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:33] App\Log.DEBUG: sql运行时间:34.72ms  
+[2019-08-01 09:45:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:33] App\Log.DEBUG: sql运行时间:35.11ms  
+[2019-08-01 09:45:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:33] App\Log.DEBUG: sql运行时间:39.32ms  
+[2019-08-01 09:45:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:33] App\Log.DEBUG: sql运行时间:38.58ms  
+[2019-08-01 09:45:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:34] App\Log.DEBUG: sql运行时间:36.22ms  
+[2019-08-01 09:45:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:34] App\Log.DEBUG: sql运行时间:36.75ms  
+[2019-08-01 09:45:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:34] App\Log.DEBUG: sql运行时间:39.13ms  
+[2019-08-01 09:45:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:34] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 09:45:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:34] App\Log.DEBUG: sql运行时间:45.2ms  
+[2019-08-01 09:45:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:35] App\Log.DEBUG: sql运行时间:39.04ms  
+[2019-08-01 09:45:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:35] App\Log.DEBUG: sql运行时间:37.94ms  
+[2019-08-01 09:45:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:35] App\Log.DEBUG: sql运行时间:36.06ms  
+[2019-08-01 09:45:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:35] App\Log.DEBUG: sql运行时间:36.3ms  
+[2019-08-01 09:45:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:36] App\Log.DEBUG: sql运行时间:36.15ms  
+[2019-08-01 09:45:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:36] App\Log.DEBUG: sql运行时间:39.23ms  
+[2019-08-01 09:45:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:36] App\Log.DEBUG: sql运行时间:35.85ms  
+[2019-08-01 09:45:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:36] App\Log.DEBUG: sql运行时间:37.46ms  
+[2019-08-01 09:45:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:37] App\Log.DEBUG: sql运行时间:35.78ms  
+[2019-08-01 09:45:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:37] App\Log.DEBUG: sql运行时间:35.53ms  
+[2019-08-01 09:45:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:37] App\Log.DEBUG: sql运行时间:36.79ms  
+[2019-08-01 09:45:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:37] App\Log.DEBUG: sql运行时间:37.67ms  
+[2019-08-01 09:45:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:38] App\Log.DEBUG: sql运行时间:39.19ms  
+[2019-08-01 09:45:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:38] App\Log.DEBUG: sql运行时间:37.15ms  
+[2019-08-01 09:45:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:38] App\Log.DEBUG: sql运行时间:39.44ms  
+[2019-08-01 09:45:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:38] App\Log.DEBUG: sql运行时间:35.73ms  
+[2019-08-01 09:45:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:39] App\Log.DEBUG: sql运行时间:36.87ms  
+[2019-08-01 09:45:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:39] App\Log.DEBUG: sql运行时间:37.55ms  
+[2019-08-01 09:45:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:39] App\Log.DEBUG: sql运行时间:36.22ms  
+[2019-08-01 09:45:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:39] App\Log.DEBUG: sql运行时间:38.53ms  
+[2019-08-01 09:45:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:40] App\Log.DEBUG: sql运行时间:35.16ms  
+[2019-08-01 09:45:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:40] App\Log.DEBUG: sql运行时间:53.22ms  
+[2019-08-01 09:45:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:40] App\Log.DEBUG: sql运行时间:37.78ms  
+[2019-08-01 09:45:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:40] App\Log.DEBUG: sql运行时间:34.9ms  
+[2019-08-01 09:45:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:41] App\Log.DEBUG: sql运行时间:35.51ms  
+[2019-08-01 09:45:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:41] App\Log.DEBUG: sql运行时间:37.03ms  
+[2019-08-01 09:45:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:41] App\Log.DEBUG: sql运行时间:36.21ms  
+[2019-08-01 09:45:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:41] App\Log.DEBUG: sql运行时间:35.45ms  
+[2019-08-01 09:45:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:42] App\Log.DEBUG: sql运行时间:34.64ms  
+[2019-08-01 09:45:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:42] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:45:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:42] App\Log.DEBUG: sql运行时间:46.64ms  
+[2019-08-01 09:45:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:42] App\Log.DEBUG: sql运行时间:35.75ms  
+[2019-08-01 09:45:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:42] App\Log.DEBUG: sql运行时间:34.68ms  
+[2019-08-01 09:45:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:43] App\Log.DEBUG: sql运行时间:37.39ms  
+[2019-08-01 09:45:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:43] App\Log.DEBUG: sql运行时间:36.32ms  
+[2019-08-01 09:45:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:43] App\Log.DEBUG: sql运行时间:37.25ms  
+[2019-08-01 09:45:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:43] App\Log.DEBUG: sql运行时间:35.48ms  
+[2019-08-01 09:45:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:44] App\Log.DEBUG: sql运行时间:38.11ms  
+[2019-08-01 09:45:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:44] App\Log.DEBUG: sql运行时间:38.33ms  
+[2019-08-01 09:45:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:44] App\Log.DEBUG: sql运行时间:34.65ms  
+[2019-08-01 09:45:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:44] App\Log.DEBUG: sql运行时间:36.45ms  
+[2019-08-01 09:45:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:45] App\Log.DEBUG: sql运行时间:35.51ms  
+[2019-08-01 09:45:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:45] App\Log.DEBUG: sql运行时间:36.28ms  
+[2019-08-01 09:45:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:45] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 09:45:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:45] App\Log.DEBUG: sql运行时间:34.52ms  
+[2019-08-01 09:45:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:46] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:45:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:46] App\Log.DEBUG: sql运行时间:40.95ms  
+[2019-08-01 09:45:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:46] App\Log.DEBUG: sql运行时间:35.92ms  
+[2019-08-01 09:45:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:46] App\Log.DEBUG: sql运行时间:34.4ms  
+[2019-08-01 09:45:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:47] App\Log.DEBUG: sql运行时间:35.29ms  
+[2019-08-01 09:45:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:47] App\Log.DEBUG: sql运行时间:42.48ms  
+[2019-08-01 09:45:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:47] App\Log.DEBUG: sql运行时间:34.99ms  
+[2019-08-01 09:45:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:47] App\Log.DEBUG: sql运行时间:39.14ms  
+[2019-08-01 09:45:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:48] App\Log.DEBUG: sql运行时间:34.72ms  
+[2019-08-01 09:45:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:48] App\Log.DEBUG: sql运行时间:37.64ms  
+[2019-08-01 09:45:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:48] App\Log.DEBUG: sql运行时间:34.99ms  
+[2019-08-01 09:45:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:48] App\Log.DEBUG: sql运行时间:35.9ms  
+[2019-08-01 09:45:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:49] App\Log.DEBUG: sql运行时间:34.28ms  
+[2019-08-01 09:45:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:49] App\Log.DEBUG: sql运行时间:37.06ms  
+[2019-08-01 09:45:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:49] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 09:45:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:49] App\Log.DEBUG: sql运行时间:35.13ms  
+[2019-08-01 09:45:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:50] App\Log.DEBUG: sql运行时间:46.93ms  
+[2019-08-01 09:45:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:50] App\Log.DEBUG: sql运行时间:35.13ms  
+[2019-08-01 09:45:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:50] App\Log.DEBUG: sql运行时间:36.65ms  
+[2019-08-01 09:45:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:50] App\Log.DEBUG: sql运行时间:36.65ms  
+[2019-08-01 09:45:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:50] App\Log.DEBUG: sql运行时间:36.48ms  
+[2019-08-01 09:45:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:51] App\Log.DEBUG: sql运行时间:35.32ms  
+[2019-08-01 09:45:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:51] App\Log.DEBUG: sql运行时间:35.63ms  
+[2019-08-01 09:45:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:51] App\Log.DEBUG: sql运行时间:35.27ms  
+[2019-08-01 09:45:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:51] App\Log.DEBUG: sql运行时间:35.04ms  
+[2019-08-01 09:45:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:52] App\Log.DEBUG: sql运行时间:34.63ms  
+[2019-08-01 09:45:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:52] App\Log.DEBUG: sql运行时间:38.1ms  
+[2019-08-01 09:45:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:52] App\Log.DEBUG: sql运行时间:41.69ms  
+[2019-08-01 09:45:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:52] App\Log.DEBUG: sql运行时间:34.76ms  
+[2019-08-01 09:45:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:53] App\Log.DEBUG: sql运行时间:34.97ms  
+[2019-08-01 09:45:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:53] App\Log.DEBUG: sql运行时间:36.07ms  
+[2019-08-01 09:45:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:53] App\Log.DEBUG: sql运行时间:33.95ms  
+[2019-08-01 09:45:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:53] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 09:45:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:54] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:45:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:54] App\Log.DEBUG: sql运行时间:37.81ms  
+[2019-08-01 09:45:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:54] App\Log.DEBUG: sql运行时间:34.86ms  
+[2019-08-01 09:45:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:54] App\Log.DEBUG: sql运行时间:35.38ms  
+[2019-08-01 09:45:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:55] App\Log.DEBUG: sql运行时间:34.06ms  
+[2019-08-01 09:45:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:55] App\Log.DEBUG: sql运行时间:49.28ms  
+[2019-08-01 09:45:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:55] App\Log.DEBUG: sql运行时间:34.8ms  
+[2019-08-01 09:45:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:55] App\Log.DEBUG: sql运行时间:36.04ms  
+[2019-08-01 09:45:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:56] App\Log.DEBUG: sql运行时间:33.95ms  
+[2019-08-01 09:45:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:56] App\Log.DEBUG: sql运行时间:35.85ms  
+[2019-08-01 09:45:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:56] App\Log.DEBUG: sql运行时间:37.91ms  
+[2019-08-01 09:45:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:56] App\Log.DEBUG: sql运行时间:35.95ms  
+[2019-08-01 09:45:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:57] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 09:45:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:57] App\Log.DEBUG: sql运行时间:34.93ms  
+[2019-08-01 09:45:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:57] App\Log.DEBUG: sql运行时间:51.03ms  
+[2019-08-01 09:45:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:57] App\Log.DEBUG: sql运行时间:35.78ms  
+[2019-08-01 09:45:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:58] App\Log.DEBUG: sql运行时间:35.01ms  
+[2019-08-01 09:45:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:58] App\Log.DEBUG: sql运行时间:36.55ms  
+[2019-08-01 09:45:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:58] App\Log.DEBUG: sql运行时间:38.55ms  
+[2019-08-01 09:45:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:58] App\Log.DEBUG: sql运行时间:35.43ms  
+[2019-08-01 09:45:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:59] App\Log.DEBUG: sql运行时间:35.54ms  
+[2019-08-01 09:45:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:59] App\Log.DEBUG: sql运行时间:39.25ms  
+[2019-08-01 09:45:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:59] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 09:45:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:45:59] App\Log.DEBUG: sql运行时间:34.75ms  
+[2019-08-01 09:46:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:00] App\Log.DEBUG: sql运行时间:35.29ms  
+[2019-08-01 09:46:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:00] App\Log.DEBUG: sql运行时间:35.62ms  
+[2019-08-01 09:46:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:00] App\Log.DEBUG: sql运行时间:36.63ms  
+[2019-08-01 09:46:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:00] App\Log.DEBUG: sql运行时间:35.93ms  
+[2019-08-01 09:46:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:01] App\Log.DEBUG: sql运行时间:35.25ms  
+[2019-08-01 09:46:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:01] App\Log.DEBUG: sql运行时间:41.84ms  
+[2019-08-01 09:46:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:01] App\Log.DEBUG: sql运行时间:34.01ms  
+[2019-08-01 09:46:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:01] App\Log.DEBUG: sql运行时间:36.97ms  
+[2019-08-01 09:46:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:02] App\Log.DEBUG: sql运行时间:35.74ms  
+[2019-08-01 09:46:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:02] App\Log.DEBUG: sql运行时间:39.51ms  
+[2019-08-01 09:46:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:02] App\Log.DEBUG: sql运行时间:40.87ms  
+[2019-08-01 09:46:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:02] App\Log.DEBUG: sql运行时间:44.94ms  
+[2019-08-01 09:46:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:03] App\Log.DEBUG: sql运行时间:36.03ms  
+[2019-08-01 09:46:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:03] App\Log.DEBUG: sql运行时间:39.6ms  
+[2019-08-01 09:46:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:03] App\Log.DEBUG: sql运行时间:43.7ms  
+[2019-08-01 09:46:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:03] App\Log.DEBUG: sql运行时间:56.78ms  
+[2019-08-01 09:46:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:04] App\Log.DEBUG: sql运行时间:47.76ms  
+[2019-08-01 09:46:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:04] App\Log.DEBUG: sql运行时间:39.58ms  
+[2019-08-01 09:46:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:04] App\Log.DEBUG: sql运行时间:36.02ms  
+[2019-08-01 09:46:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:05] App\Log.DEBUG: sql运行时间:56.79ms  
+[2019-08-01 09:46:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:05] App\Log.DEBUG: sql运行时间:46.6ms  
+[2019-08-01 09:46:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:05] App\Log.DEBUG: sql运行时间:41.07ms  
+[2019-08-01 09:46:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:05] App\Log.DEBUG: sql运行时间:42.49ms  
+[2019-08-01 09:46:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:06] App\Log.DEBUG: sql运行时间:44.22ms  
+[2019-08-01 09:46:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:06] App\Log.DEBUG: sql运行时间:41.08ms  
+[2019-08-01 09:46:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:06] App\Log.DEBUG: sql运行时间:38.64ms  
+[2019-08-01 09:46:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:06] App\Log.DEBUG: sql运行时间:37.72ms  
+[2019-08-01 09:46:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:07] App\Log.DEBUG: sql运行时间:47.76ms  
+[2019-08-01 09:46:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:07] App\Log.DEBUG: sql运行时间:39.04ms  
+[2019-08-01 09:46:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:07] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 09:46:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:07] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 09:46:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:08] App\Log.DEBUG: sql运行时间:40.94ms  
+[2019-08-01 09:46:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:08] App\Log.DEBUG: sql运行时间:43.2ms  
+[2019-08-01 09:46:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:08] App\Log.DEBUG: sql运行时间:41.14ms  
+[2019-08-01 09:46:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:09] App\Log.DEBUG: sql运行时间:36.28ms  
+[2019-08-01 09:46:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:09] App\Log.DEBUG: sql运行时间:66.88ms  
+[2019-08-01 09:46:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:09] App\Log.DEBUG: sql运行时间:37.23ms  
+[2019-08-01 09:46:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:09] App\Log.DEBUG: sql运行时间:37.69ms  
+[2019-08-01 09:46:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:10] App\Log.DEBUG: sql运行时间:35.61ms  
+[2019-08-01 09:46:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:10] App\Log.DEBUG: sql运行时间:38.4ms  
+[2019-08-01 09:46:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:10] App\Log.DEBUG: sql运行时间:36.92ms  
+[2019-08-01 09:46:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:10] App\Log.DEBUG: sql运行时间:36.58ms  
+[2019-08-01 09:46:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:11] App\Log.DEBUG: sql运行时间:37.27ms  
+[2019-08-01 09:46:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:11] App\Log.DEBUG: sql运行时间:38.37ms  
+[2019-08-01 09:46:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:11] App\Log.DEBUG: sql运行时间:46.14ms  
+[2019-08-01 09:46:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:11] App\Log.DEBUG: sql运行时间:34.79ms  
+[2019-08-01 09:46:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:12] App\Log.DEBUG: sql运行时间:39.92ms  
+[2019-08-01 09:46:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:12] App\Log.DEBUG: sql运行时间:36.51ms  
+[2019-08-01 09:46:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:12] App\Log.DEBUG: sql运行时间:38.75ms  
+[2019-08-01 09:46:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:12] App\Log.DEBUG: sql运行时间:34.85ms  
+[2019-08-01 09:46:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:13] App\Log.DEBUG: sql运行时间:35.9ms  
+[2019-08-01 09:46:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:13] App\Log.DEBUG: sql运行时间:36.38ms  
+[2019-08-01 09:46:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:13] App\Log.DEBUG: sql运行时间:37.6ms  
+[2019-08-01 09:46:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:13] App\Log.DEBUG: sql运行时间:36.26ms  
+[2019-08-01 09:46:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:14] App\Log.DEBUG: sql运行时间:41.7ms  
+[2019-08-01 09:46:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:14] App\Log.DEBUG: sql运行时间:37.36ms  
+[2019-08-01 09:46:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:14] App\Log.DEBUG: sql运行时间:37.62ms  
+[2019-08-01 09:46:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:14] App\Log.DEBUG: sql运行时间:43.88ms  
+[2019-08-01 09:46:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:15] App\Log.DEBUG: sql运行时间:37.85ms  
+[2019-08-01 09:46:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:15] App\Log.DEBUG: sql运行时间:37.87ms  
+[2019-08-01 09:46:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:15] App\Log.DEBUG: sql运行时间:36.96ms  
+[2019-08-01 09:46:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:15] App\Log.DEBUG: sql运行时间:37.99ms  
+[2019-08-01 09:46:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:15] App\Log.DEBUG: sql运行时间:36.76ms  
+[2019-08-01 09:46:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:16] App\Log.DEBUG: sql运行时间:37.67ms  
+[2019-08-01 09:46:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:16] App\Log.DEBUG: sql运行时间:39.84ms  
+[2019-08-01 09:46:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:16] App\Log.DEBUG: sql运行时间:35.88ms  
+[2019-08-01 09:46:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:16] App\Log.DEBUG: sql运行时间:51.54ms  
+[2019-08-01 09:46:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:17] App\Log.DEBUG: sql运行时间:35.1ms  
+[2019-08-01 09:46:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:17] App\Log.DEBUG: sql运行时间:38.5ms  
+[2019-08-01 09:46:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:17] App\Log.DEBUG: sql运行时间:36.61ms  
+[2019-08-01 09:46:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:17] App\Log.DEBUG: sql运行时间:35.97ms  
+[2019-08-01 09:46:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:18] App\Log.DEBUG: sql运行时间:38.85ms  
+[2019-08-01 09:46:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:18] App\Log.DEBUG: sql运行时间:36.12ms  
+[2019-08-01 09:46:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:18] App\Log.DEBUG: sql运行时间:36.16ms  
+[2019-08-01 09:46:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:18] App\Log.DEBUG: sql运行时间:35.31ms  
+[2019-08-01 09:46:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:19] App\Log.DEBUG: sql运行时间:36.96ms  
+[2019-08-01 09:46:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:19] App\Log.DEBUG: sql运行时间:39.81ms  
+[2019-08-01 09:46:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:19] App\Log.DEBUG: sql运行时间:37.61ms  
+[2019-08-01 09:46:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:19] App\Log.DEBUG: sql运行时间:36.43ms  
+[2019-08-01 09:46:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:20] App\Log.DEBUG: sql运行时间:35.88ms  
+[2019-08-01 09:46:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:20] App\Log.DEBUG: sql运行时间:37.05ms  
+[2019-08-01 09:46:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:20] App\Log.DEBUG: sql运行时间:43.4ms  
+[2019-08-01 09:46:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:20] App\Log.DEBUG: sql运行时间:36.38ms  
+[2019-08-01 09:46:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:21] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 09:46:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:21] App\Log.DEBUG: sql运行时间:37.74ms  
+[2019-08-01 09:46:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:21] App\Log.DEBUG: sql运行时间:36.47ms  
+[2019-08-01 09:46:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:21] App\Log.DEBUG: sql运行时间:37.05ms  
+[2019-08-01 09:46:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:22] App\Log.DEBUG: sql运行时间:35.85ms  
+[2019-08-01 09:46:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:22] App\Log.DEBUG: sql运行时间:42.65ms  
+[2019-08-01 09:46:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:22] App\Log.DEBUG: sql运行时间:37.4ms  
+[2019-08-01 09:46:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:22] App\Log.DEBUG: sql运行时间:39.8ms  
+[2019-08-01 09:46:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:22] App\Log.DEBUG: sql运行时间:40.99ms  
+[2019-08-01 09:46:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:23] App\Log.DEBUG: sql运行时间:37.13ms  
+[2019-08-01 09:46:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:23] App\Log.DEBUG: sql运行时间:36.79ms  
+[2019-08-01 09:46:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:23] App\Log.DEBUG: sql运行时间:36.7ms  
+[2019-08-01 09:46:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:23] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 09:46:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:24] App\Log.DEBUG: sql运行时间:36.13ms  
+[2019-08-01 09:46:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:24] App\Log.DEBUG: sql运行时间:43.12ms  
+[2019-08-01 09:46:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:24] App\Log.DEBUG: sql运行时间:36.22ms  
+[2019-08-01 09:46:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:24] App\Log.DEBUG: sql运行时间:38.27ms  
+[2019-08-01 09:46:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:25] App\Log.DEBUG: sql运行时间:36.34ms  
+[2019-08-01 09:46:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:25] App\Log.DEBUG: sql运行时间:37.58ms  
+[2019-08-01 09:46:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:25] App\Log.DEBUG: sql运行时间:35.77ms  
+[2019-08-01 09:46:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:25] App\Log.DEBUG: sql运行时间:37.2ms  
+[2019-08-01 09:46:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:26] App\Log.DEBUG: sql运行时间:36.15ms  
+[2019-08-01 09:46:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:26] App\Log.DEBUG: sql运行时间:41ms  
+[2019-08-01 09:46:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:26] App\Log.DEBUG: sql运行时间:48.99ms  
+[2019-08-01 09:46:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:26] App\Log.DEBUG: sql运行时间:37.14ms  
+[2019-08-01 09:46:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:27] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 09:46:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:27] App\Log.DEBUG: sql运行时间:37.83ms  
+[2019-08-01 09:46:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:27] App\Log.DEBUG: sql运行时间:37.56ms  
+[2019-08-01 09:46:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:27] App\Log.DEBUG: sql运行时间:36.64ms  
+[2019-08-01 09:46:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:28] App\Log.DEBUG: sql运行时间:43.47ms  
+[2019-08-01 09:46:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:28] App\Log.DEBUG: sql运行时间:37.17ms  
+[2019-08-01 09:46:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:28] App\Log.DEBUG: sql运行时间:36.21ms  
+[2019-08-01 09:46:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:28] App\Log.DEBUG: sql运行时间:48ms  
+[2019-08-01 09:46:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:29] App\Log.DEBUG: sql运行时间:35.53ms  
+[2019-08-01 09:46:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:29] App\Log.DEBUG: sql运行时间:36.88ms  
+[2019-08-01 09:46:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:29] App\Log.DEBUG: sql运行时间:37.54ms  
+[2019-08-01 09:46:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:29] App\Log.DEBUG: sql运行时间:36.78ms  
+[2019-08-01 09:46:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:29] App\Log.DEBUG: sql运行时间:36.18ms  
+[2019-08-01 09:46:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:30] App\Log.DEBUG: sql运行时间:38.03ms  
+[2019-08-01 09:46:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:30] App\Log.DEBUG: sql运行时间:41.37ms  
+[2019-08-01 09:46:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:30] App\Log.DEBUG: sql运行时间:35.98ms  
+[2019-08-01 09:46:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:30] App\Log.DEBUG: sql运行时间:47.24ms  
+[2019-08-01 09:46:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:31] App\Log.DEBUG: sql运行时间:36.1ms  
+[2019-08-01 09:46:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:31] App\Log.DEBUG: sql运行时间:37.97ms  
+[2019-08-01 09:46:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:31] App\Log.DEBUG: sql运行时间:35.42ms  
+[2019-08-01 09:46:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:31] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 09:46:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:32] App\Log.DEBUG: sql运行时间:36.32ms  
+[2019-08-01 09:46:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:32] App\Log.DEBUG: sql运行时间:38.65ms  
+[2019-08-01 09:46:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:32] App\Log.DEBUG: sql运行时间:35.08ms  
+[2019-08-01 09:46:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:32] App\Log.DEBUG: sql运行时间:36.08ms  
+[2019-08-01 09:46:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:33] App\Log.DEBUG: sql运行时间:37.22ms  
+[2019-08-01 09:46:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:33] App\Log.DEBUG: sql运行时间:38.84ms  
+[2019-08-01 09:46:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:33] App\Log.DEBUG: sql运行时间:35.67ms  
+[2019-08-01 09:46:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:33] App\Log.DEBUG: sql运行时间:34.93ms  
+[2019-08-01 09:46:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 09:46:34] App\Log.DEBUG: sql运行时间:37.91ms  
+[2019-08-01 11:09:22] App\Log.DEBUG: 运行sql:select `name` from `videos` where `id` = %s, args:[430]  
+[2019-08-01 11:09:22] App\Log.DEBUG: sql运行时间:14.66ms  
+[2019-08-01 11:13:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s limit 1, args:[1,1]  
+[2019-08-01 11:13:39] App\Log.DEBUG: sql运行时间:5.48ms  
+[2019-08-01 11:13:43] App\Log.DEBUG: 运行sql:select `name` from `videos` where `id` = %s, args:[430]  
+[2019-08-01 11:13:43] App\Log.DEBUG: sql运行时间:3.33ms  
+[2019-08-01 12:06:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:44] App\Log.DEBUG: sql运行时间:145.69ms  
+[2019-08-01 12:06:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:45] App\Log.DEBUG: sql运行时间:43.38ms  
+[2019-08-01 12:06:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:45] App\Log.DEBUG: sql运行时间:43.78ms  
+[2019-08-01 12:06:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:45] App\Log.DEBUG: sql运行时间:37.67ms  
+[2019-08-01 12:06:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:46] App\Log.DEBUG: sql运行时间:42.33ms  
+[2019-08-01 12:06:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:46] App\Log.DEBUG: sql运行时间:39.98ms  
+[2019-08-01 12:06:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:46] App\Log.DEBUG: sql运行时间:36.69ms  
+[2019-08-01 12:06:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:46] App\Log.DEBUG: sql运行时间:46.12ms  
+[2019-08-01 12:06:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:47] App\Log.DEBUG: sql运行时间:38.68ms  
+[2019-08-01 12:06:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:47] App\Log.DEBUG: sql运行时间:42.49ms  
+[2019-08-01 12:06:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:47] App\Log.DEBUG: sql运行时间:36.25ms  
+[2019-08-01 12:06:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:47] App\Log.DEBUG: sql运行时间:36.74ms  
+[2019-08-01 12:06:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:48] App\Log.DEBUG: sql运行时间:53.67ms  
+[2019-08-01 12:06:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:48] App\Log.DEBUG: sql运行时间:45.22ms  
+[2019-08-01 12:06:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:48] App\Log.DEBUG: sql运行时间:37.11ms  
+[2019-08-01 12:06:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:48] App\Log.DEBUG: sql运行时间:42.25ms  
+[2019-08-01 12:06:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:49] App\Log.DEBUG: sql运行时间:37.14ms  
+[2019-08-01 12:06:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:49] App\Log.DEBUG: sql运行时间:44.74ms  
+[2019-08-01 12:06:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:49] App\Log.DEBUG: sql运行时间:42.26ms  
+[2019-08-01 12:06:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:50] App\Log.DEBUG: sql运行时间:39.11ms  
+[2019-08-01 12:06:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:50] App\Log.DEBUG: sql运行时间:41ms  
+[2019-08-01 12:06:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:50] App\Log.DEBUG: sql运行时间:42.62ms  
+[2019-08-01 12:06:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:50] App\Log.DEBUG: sql运行时间:36.94ms  
+[2019-08-01 12:06:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:51] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 12:06:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:51] App\Log.DEBUG: sql运行时间:41.76ms  
+[2019-08-01 12:06:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:51] App\Log.DEBUG: sql运行时间:36.21ms  
+[2019-08-01 12:06:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:51] App\Log.DEBUG: sql运行时间:37.21ms  
+[2019-08-01 12:06:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:52] App\Log.DEBUG: sql运行时间:44.18ms  
+[2019-08-01 12:06:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:52] App\Log.DEBUG: sql运行时间:46.63ms  
+[2019-08-01 12:06:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:52] App\Log.DEBUG: sql运行时间:35.17ms  
+[2019-08-01 12:06:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:53] App\Log.DEBUG: sql运行时间:36.46ms  
+[2019-08-01 12:06:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:53] App\Log.DEBUG: sql运行时间:38.19ms  
+[2019-08-01 12:06:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:53] App\Log.DEBUG: sql运行时间:65.14ms  
+[2019-08-01 12:06:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:53] App\Log.DEBUG: sql运行时间:37.91ms  
+[2019-08-01 12:06:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:54] App\Log.DEBUG: sql运行时间:35.46ms  
+[2019-08-01 12:06:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:54] App\Log.DEBUG: sql运行时间:36.61ms  
+[2019-08-01 12:06:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:54] App\Log.DEBUG: sql运行时间:37.53ms  
+[2019-08-01 12:06:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:54] App\Log.DEBUG: sql运行时间:38.67ms  
+[2019-08-01 12:06:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:55] App\Log.DEBUG: sql运行时间:39.38ms  
+[2019-08-01 12:06:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:55] App\Log.DEBUG: sql运行时间:43.87ms  
+[2019-08-01 12:06:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:55] App\Log.DEBUG: sql运行时间:44.39ms  
+[2019-08-01 12:06:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:55] App\Log.DEBUG: sql运行时间:43.37ms  
+[2019-08-01 12:06:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:56] App\Log.DEBUG: sql运行时间:39.26ms  
+[2019-08-01 12:06:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:56] App\Log.DEBUG: sql运行时间:43.33ms  
+[2019-08-01 12:06:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:56] App\Log.DEBUG: sql运行时间:38.27ms  
+[2019-08-01 12:06:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:56] App\Log.DEBUG: sql运行时间:38.28ms  
+[2019-08-01 12:06:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:57] App\Log.DEBUG: sql运行时间:36.64ms  
+[2019-08-01 12:06:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:57] App\Log.DEBUG: sql运行时间:47.36ms  
+[2019-08-01 12:06:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:57] App\Log.DEBUG: sql运行时间:35.2ms  
+[2019-08-01 12:06:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:58] App\Log.DEBUG: sql运行时间:35.91ms  
+[2019-08-01 12:06:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:58] App\Log.DEBUG: sql运行时间:39.94ms  
+[2019-08-01 12:06:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:58] App\Log.DEBUG: sql运行时间:46.48ms  
+[2019-08-01 12:06:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:58] App\Log.DEBUG: sql运行时间:38ms  
+[2019-08-01 12:06:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:59] App\Log.DEBUG: sql运行时间:37.45ms  
+[2019-08-01 12:06:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:59] App\Log.DEBUG: sql运行时间:43.58ms  
+[2019-08-01 12:06:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:59] App\Log.DEBUG: sql运行时间:40.26ms  
+[2019-08-01 12:06:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:06:59] App\Log.DEBUG: sql运行时间:41.52ms  
+[2019-08-01 12:07:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:00] App\Log.DEBUG: sql运行时间:38.7ms  
+[2019-08-01 12:07:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:00] App\Log.DEBUG: sql运行时间:45.19ms  
+[2019-08-01 12:07:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:00] App\Log.DEBUG: sql运行时间:40.85ms  
+[2019-08-01 12:07:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:00] App\Log.DEBUG: sql运行时间:37.77ms  
+[2019-08-01 12:07:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:01] App\Log.DEBUG: sql运行时间:40.82ms  
+[2019-08-01 12:07:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:01] App\Log.DEBUG: sql运行时间:40.62ms  
+[2019-08-01 12:07:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:01] App\Log.DEBUG: sql运行时间:39.67ms  
+[2019-08-01 12:07:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:01] App\Log.DEBUG: sql运行时间:39.63ms  
+[2019-08-01 12:07:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:02] App\Log.DEBUG: sql运行时间:58.33ms  
+[2019-08-01 12:07:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:02] App\Log.DEBUG: sql运行时间:40.48ms  
+[2019-08-01 12:07:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:02] App\Log.DEBUG: sql运行时间:38.23ms  
+[2019-08-01 12:07:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:02] App\Log.DEBUG: sql运行时间:45.72ms  
+[2019-08-01 12:07:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:03] App\Log.DEBUG: sql运行时间:73.58ms  
+[2019-08-01 12:07:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:03] App\Log.DEBUG: sql运行时间:41.87ms  
+[2019-08-01 12:07:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:03] App\Log.DEBUG: sql运行时间:38.6ms  
+[2019-08-01 12:07:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:04] App\Log.DEBUG: sql运行时间:41.77ms  
+[2019-08-01 12:07:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:04] App\Log.DEBUG: sql运行时间:48.64ms  
+[2019-08-01 12:07:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:04] App\Log.DEBUG: sql运行时间:39.05ms  
+[2019-08-01 12:07:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:04] App\Log.DEBUG: sql运行时间:36.43ms  
+[2019-08-01 12:07:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:05] App\Log.DEBUG: sql运行时间:36.29ms  
+[2019-08-01 12:07:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:05] App\Log.DEBUG: sql运行时间:50.25ms  
+[2019-08-01 12:07:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:05] App\Log.DEBUG: sql运行时间:40.56ms  
+[2019-08-01 12:07:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:05] App\Log.DEBUG: sql运行时间:36.4ms  
+[2019-08-01 12:07:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:06] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 12:07:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:06] App\Log.DEBUG: sql运行时间:46.52ms  
+[2019-08-01 12:07:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:06] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 12:07:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:06] App\Log.DEBUG: sql运行时间:37.6ms  
+[2019-08-01 12:07:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:07] App\Log.DEBUG: sql运行时间:39.78ms  
+[2019-08-01 12:07:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:07] App\Log.DEBUG: sql运行时间:40.48ms  
+[2019-08-01 12:07:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:07] App\Log.DEBUG: sql运行时间:47.69ms  
+[2019-08-01 12:07:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:07] App\Log.DEBUG: sql运行时间:35.73ms  
+[2019-08-01 12:07:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:08] App\Log.DEBUG: sql运行时间:35.26ms  
+[2019-08-01 12:07:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:08] App\Log.DEBUG: sql运行时间:39.87ms  
+[2019-08-01 12:07:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:08] App\Log.DEBUG: sql运行时间:39.06ms  
+[2019-08-01 12:07:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:08] App\Log.DEBUG: sql运行时间:38.06ms  
+[2019-08-01 12:07:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:09] App\Log.DEBUG: sql运行时间:38ms  
+[2019-08-01 12:07:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:09] App\Log.DEBUG: sql运行时间:38.22ms  
+[2019-08-01 12:07:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:09] App\Log.DEBUG: sql运行时间:36.31ms  
+[2019-08-01 12:07:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:09] App\Log.DEBUG: sql运行时间:35.63ms  
+[2019-08-01 12:07:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:10] App\Log.DEBUG: sql运行时间:34.93ms  
+[2019-08-01 12:07:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:10] App\Log.DEBUG: sql运行时间:38.89ms  
+[2019-08-01 12:07:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:10] App\Log.DEBUG: sql运行时间:36.51ms  
+[2019-08-01 12:07:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:11] App\Log.DEBUG: sql运行时间:37.54ms  
+[2019-08-01 12:07:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:11] App\Log.DEBUG: sql运行时间:39.88ms  
+[2019-08-01 12:07:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:11] App\Log.DEBUG: sql运行时间:40.14ms  
+[2019-08-01 12:07:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:11] App\Log.DEBUG: sql运行时间:51.59ms  
+[2019-08-01 12:07:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:12] App\Log.DEBUG: sql运行时间:37.37ms  
+[2019-08-01 12:07:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:12] App\Log.DEBUG: sql运行时间:38.13ms  
+[2019-08-01 12:07:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:12] App\Log.DEBUG: sql运行时间:38.79ms  
+[2019-08-01 12:07:12] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:12] App\Log.DEBUG: sql运行时间:36.4ms  
+[2019-08-01 12:07:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:13] App\Log.DEBUG: sql运行时间:42.62ms  
+[2019-08-01 12:07:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:13] App\Log.DEBUG: sql运行时间:64.94ms  
+[2019-08-01 12:07:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:13] App\Log.DEBUG: sql运行时间:42.77ms  
+[2019-08-01 12:07:13] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:13] App\Log.DEBUG: sql运行时间:54.79ms  
+[2019-08-01 12:07:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:14] App\Log.DEBUG: sql运行时间:36.03ms  
+[2019-08-01 12:07:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:14] App\Log.DEBUG: sql运行时间:52.65ms  
+[2019-08-01 12:07:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:14] App\Log.DEBUG: sql运行时间:36.35ms  
+[2019-08-01 12:07:14] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:14] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 12:07:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:15] App\Log.DEBUG: sql运行时间:37.13ms  
+[2019-08-01 12:07:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:15] App\Log.DEBUG: sql运行时间:38.55ms  
+[2019-08-01 12:07:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:15] App\Log.DEBUG: sql运行时间:36.92ms  
+[2019-08-01 12:07:15] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:15] App\Log.DEBUG: sql运行时间:35.6ms  
+[2019-08-01 12:07:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:16] App\Log.DEBUG: sql运行时间:39.71ms  
+[2019-08-01 12:07:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:16] App\Log.DEBUG: sql运行时间:42.61ms  
+[2019-08-01 12:07:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:16] App\Log.DEBUG: sql运行时间:36.16ms  
+[2019-08-01 12:07:16] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:16] App\Log.DEBUG: sql运行时间:36.12ms  
+[2019-08-01 12:07:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:17] App\Log.DEBUG: sql运行时间:36.82ms  
+[2019-08-01 12:07:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:17] App\Log.DEBUG: sql运行时间:40.35ms  
+[2019-08-01 12:07:17] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:17] App\Log.DEBUG: sql运行时间:37.33ms  
+[2019-08-01 12:07:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:18] App\Log.DEBUG: sql运行时间:38.56ms  
+[2019-08-01 12:07:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:18] App\Log.DEBUG: sql运行时间:48.75ms  
+[2019-08-01 12:07:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:18] App\Log.DEBUG: sql运行时间:36.06ms  
+[2019-08-01 12:07:18] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:18] App\Log.DEBUG: sql运行时间:39.46ms  
+[2019-08-01 12:07:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:19] App\Log.DEBUG: sql运行时间:37.66ms  
+[2019-08-01 12:07:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:19] App\Log.DEBUG: sql运行时间:51.01ms  
+[2019-08-01 12:07:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:19] App\Log.DEBUG: sql运行时间:46.19ms  
+[2019-08-01 12:07:19] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:19] App\Log.DEBUG: sql运行时间:37.71ms  
+[2019-08-01 12:07:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:20] App\Log.DEBUG: sql运行时间:36.21ms  
+[2019-08-01 12:07:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:20] App\Log.DEBUG: sql运行时间:47.54ms  
+[2019-08-01 12:07:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:20] App\Log.DEBUG: sql运行时间:38.47ms  
+[2019-08-01 12:07:20] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:20] App\Log.DEBUG: sql运行时间:35.3ms  
+[2019-08-01 12:07:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:21] App\Log.DEBUG: sql运行时间:35.68ms  
+[2019-08-01 12:07:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:21] App\Log.DEBUG: sql运行时间:38.83ms  
+[2019-08-01 12:07:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:21] App\Log.DEBUG: sql运行时间:37.49ms  
+[2019-08-01 12:07:21] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:21] App\Log.DEBUG: sql运行时间:46.72ms  
+[2019-08-01 12:07:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:22] App\Log.DEBUG: sql运行时间:40.12ms  
+[2019-08-01 12:07:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:22] App\Log.DEBUG: sql运行时间:38.31ms  
+[2019-08-01 12:07:22] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:22] App\Log.DEBUG: sql运行时间:39.72ms  
+[2019-08-01 12:07:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:23] App\Log.DEBUG: sql运行时间:37.19ms  
+[2019-08-01 12:07:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:23] App\Log.DEBUG: sql运行时间:36.55ms  
+[2019-08-01 12:07:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:23] App\Log.DEBUG: sql运行时间:38.27ms  
+[2019-08-01 12:07:23] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:23] App\Log.DEBUG: sql运行时间:37.81ms  
+[2019-08-01 12:07:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:24] App\Log.DEBUG: sql运行时间:38.48ms  
+[2019-08-01 12:07:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:24] App\Log.DEBUG: sql运行时间:37.96ms  
+[2019-08-01 12:07:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:24] App\Log.DEBUG: sql运行时间:36.61ms  
+[2019-08-01 12:07:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:24] App\Log.DEBUG: sql运行时间:54.06ms  
+[2019-08-01 12:07:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:25] App\Log.DEBUG: sql运行时间:37.8ms  
+[2019-08-01 12:07:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:25] App\Log.DEBUG: sql运行时间:37.01ms  
+[2019-08-01 12:07:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:25] App\Log.DEBUG: sql运行时间:35.92ms  
+[2019-08-01 12:07:25] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:25] App\Log.DEBUG: sql运行时间:36.55ms  
+[2019-08-01 12:07:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:26] App\Log.DEBUG: sql运行时间:34.99ms  
+[2019-08-01 12:07:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:26] App\Log.DEBUG: sql运行时间:42.64ms  
+[2019-08-01 12:07:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:26] App\Log.DEBUG: sql运行时间:36.83ms  
+[2019-08-01 12:07:26] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:26] App\Log.DEBUG: sql运行时间:37.49ms  
+[2019-08-01 12:07:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:27] App\Log.DEBUG: sql运行时间:37.4ms  
+[2019-08-01 12:07:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:27] App\Log.DEBUG: sql运行时间:39.76ms  
+[2019-08-01 12:07:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:27] App\Log.DEBUG: sql运行时间:36.27ms  
+[2019-08-01 12:07:27] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:27] App\Log.DEBUG: sql运行时间:36.38ms  
+[2019-08-01 12:07:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:28] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 12:07:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:28] App\Log.DEBUG: sql运行时间:39.17ms  
+[2019-08-01 12:07:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:28] App\Log.DEBUG: sql运行时间:37.47ms  
+[2019-08-01 12:07:28] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:28] App\Log.DEBUG: sql运行时间:36.85ms  
+[2019-08-01 12:07:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:29] App\Log.DEBUG: sql运行时间:39.54ms  
+[2019-08-01 12:07:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:29] App\Log.DEBUG: sql运行时间:37.59ms  
+[2019-08-01 12:07:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:29] App\Log.DEBUG: sql运行时间:36.01ms  
+[2019-08-01 12:07:29] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:29] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 12:07:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:30] App\Log.DEBUG: sql运行时间:35.44ms  
+[2019-08-01 12:07:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:30] App\Log.DEBUG: sql运行时间:40.97ms  
+[2019-08-01 12:07:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:30] App\Log.DEBUG: sql运行时间:36.29ms  
+[2019-08-01 12:07:30] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:30] App\Log.DEBUG: sql运行时间:48.89ms  
+[2019-08-01 12:07:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:31] App\Log.DEBUG: sql运行时间:47.63ms  
+[2019-08-01 12:07:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:31] App\Log.DEBUG: sql运行时间:37.75ms  
+[2019-08-01 12:07:31] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:31] App\Log.DEBUG: sql运行时间:42.71ms  
+[2019-08-01 12:07:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:32] App\Log.DEBUG: sql运行时间:36.65ms  
+[2019-08-01 12:07:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:32] App\Log.DEBUG: sql运行时间:54.66ms  
+[2019-08-01 12:07:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:32] App\Log.DEBUG: sql运行时间:35.49ms  
+[2019-08-01 12:07:32] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:32] App\Log.DEBUG: sql运行时间:35.31ms  
+[2019-08-01 12:07:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:33] App\Log.DEBUG: sql运行时间:36.96ms  
+[2019-08-01 12:07:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:33] App\Log.DEBUG: sql运行时间:43.59ms  
+[2019-08-01 12:07:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:33] App\Log.DEBUG: sql运行时间:36.96ms  
+[2019-08-01 12:07:33] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:33] App\Log.DEBUG: sql运行时间:46.96ms  
+[2019-08-01 12:07:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:34] App\Log.DEBUG: sql运行时间:35.88ms  
+[2019-08-01 12:07:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:34] App\Log.DEBUG: sql运行时间:42.32ms  
+[2019-08-01 12:07:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:34] App\Log.DEBUG: sql运行时间:36.85ms  
+[2019-08-01 12:07:34] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:34] App\Log.DEBUG: sql运行时间:35.66ms  
+[2019-08-01 12:07:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:35] App\Log.DEBUG: sql运行时间:34.74ms  
+[2019-08-01 12:07:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:35] App\Log.DEBUG: sql运行时间:36.47ms  
+[2019-08-01 12:07:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:35] App\Log.DEBUG: sql运行时间:37.04ms  
+[2019-08-01 12:07:35] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:35] App\Log.DEBUG: sql运行时间:36.45ms  
+[2019-08-01 12:07:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:36] App\Log.DEBUG: sql运行时间:40.96ms  
+[2019-08-01 12:07:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:36] App\Log.DEBUG: sql运行时间:39.04ms  
+[2019-08-01 12:07:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:36] App\Log.DEBUG: sql运行时间:36.89ms  
+[2019-08-01 12:07:36] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:36] App\Log.DEBUG: sql运行时间:37.16ms  
+[2019-08-01 12:07:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:37] App\Log.DEBUG: sql运行时间:36.36ms  
+[2019-08-01 12:07:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:37] App\Log.DEBUG: sql运行时间:38.31ms  
+[2019-08-01 12:07:37] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:37] App\Log.DEBUG: sql运行时间:41.48ms  
+[2019-08-01 12:07:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:38] App\Log.DEBUG: sql运行时间:35.38ms  
+[2019-08-01 12:07:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:38] App\Log.DEBUG: sql运行时间:36.06ms  
+[2019-08-01 12:07:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:38] App\Log.DEBUG: sql运行时间:36.47ms  
+[2019-08-01 12:07:38] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:38] App\Log.DEBUG: sql运行时间:48.73ms  
+[2019-08-01 12:07:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:39] App\Log.DEBUG: sql运行时间:36.39ms  
+[2019-08-01 12:07:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:39] App\Log.DEBUG: sql运行时间:42.96ms  
+[2019-08-01 12:07:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:39] App\Log.DEBUG: sql运行时间:36.78ms  
+[2019-08-01 12:07:39] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:39] App\Log.DEBUG: sql运行时间:58.01ms  
+[2019-08-01 12:07:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:40] App\Log.DEBUG: sql运行时间:35.65ms  
+[2019-08-01 12:07:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:40] App\Log.DEBUG: sql运行时间:39.08ms  
+[2019-08-01 12:07:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:40] App\Log.DEBUG: sql运行时间:35.59ms  
+[2019-08-01 12:07:40] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:40] App\Log.DEBUG: sql运行时间:35.51ms  
+[2019-08-01 12:07:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:41] App\Log.DEBUG: sql运行时间:35.76ms  
+[2019-08-01 12:07:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:41] App\Log.DEBUG: sql运行时间:39.37ms  
+[2019-08-01 12:07:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:41] App\Log.DEBUG: sql运行时间:36.57ms  
+[2019-08-01 12:07:41] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:41] App\Log.DEBUG: sql运行时间:45.1ms  
+[2019-08-01 12:07:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:42] App\Log.DEBUG: sql运行时间:39.61ms  
+[2019-08-01 12:07:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:42] App\Log.DEBUG: sql运行时间:38.41ms  
+[2019-08-01 12:07:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:42] App\Log.DEBUG: sql运行时间:34.95ms  
+[2019-08-01 12:07:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:42] App\Log.DEBUG: sql运行时间:34.64ms  
+[2019-08-01 12:07:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:43] App\Log.DEBUG: sql运行时间:36.87ms  
+[2019-08-01 12:07:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:43] App\Log.DEBUG: sql运行时间:40.7ms  
+[2019-08-01 12:07:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:43] App\Log.DEBUG: sql运行时间:38.79ms  
+[2019-08-01 12:07:43] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:43] App\Log.DEBUG: sql运行时间:35.81ms  
+[2019-08-01 12:07:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:44] App\Log.DEBUG: sql运行时间:35.88ms  
+[2019-08-01 12:07:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:44] App\Log.DEBUG: sql运行时间:44.38ms  
+[2019-08-01 12:07:44] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:44] App\Log.DEBUG: sql运行时间:34.59ms  
+[2019-08-01 12:07:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:45] App\Log.DEBUG: sql运行时间:35.07ms  
+[2019-08-01 12:07:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:45] App\Log.DEBUG: sql运行时间:35.88ms  
+[2019-08-01 12:07:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:45] App\Log.DEBUG: sql运行时间:43.72ms  
+[2019-08-01 12:07:45] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:45] App\Log.DEBUG: sql运行时间:35.96ms  
+[2019-08-01 12:07:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:46] App\Log.DEBUG: sql运行时间:36.7ms  
+[2019-08-01 12:07:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:46] App\Log.DEBUG: sql运行时间:38.41ms  
+[2019-08-01 12:07:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:46] App\Log.DEBUG: sql运行时间:34.6ms  
+[2019-08-01 12:07:46] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:46] App\Log.DEBUG: sql运行时间:34.62ms  
+[2019-08-01 12:07:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:47] App\Log.DEBUG: sql运行时间:37.46ms  
+[2019-08-01 12:07:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:47] App\Log.DEBUG: sql运行时间:54.71ms  
+[2019-08-01 12:07:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:47] App\Log.DEBUG: sql运行时间:36.55ms  
+[2019-08-01 12:07:47] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:47] App\Log.DEBUG: sql运行时间:35.69ms  
+[2019-08-01 12:07:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:48] App\Log.DEBUG: sql运行时间:36.17ms  
+[2019-08-01 12:07:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:48] App\Log.DEBUG: sql运行时间:39.87ms  
+[2019-08-01 12:07:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:48] App\Log.DEBUG: sql运行时间:36.51ms  
+[2019-08-01 12:07:48] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:48] App\Log.DEBUG: sql运行时间:45.52ms  
+[2019-08-01 12:07:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:49] App\Log.DEBUG: sql运行时间:37.1ms  
+[2019-08-01 12:07:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:49] App\Log.DEBUG: sql运行时间:40.83ms  
+[2019-08-01 12:07:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:49] App\Log.DEBUG: sql运行时间:41.47ms  
+[2019-08-01 12:07:49] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:49] App\Log.DEBUG: sql运行时间:36.05ms  
+[2019-08-01 12:07:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:50] App\Log.DEBUG: sql运行时间:38.25ms  
+[2019-08-01 12:07:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:50] App\Log.DEBUG: sql运行时间:46.04ms  
+[2019-08-01 12:07:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:50] App\Log.DEBUG: sql运行时间:35.67ms  
+[2019-08-01 12:07:50] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:50] App\Log.DEBUG: sql运行时间:36.4ms  
+[2019-08-01 12:07:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:51] App\Log.DEBUG: sql运行时间:47.06ms  
+[2019-08-01 12:07:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:51] App\Log.DEBUG: sql运行时间:36.95ms  
+[2019-08-01 12:07:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:51] App\Log.DEBUG: sql运行时间:45.19ms  
+[2019-08-01 12:07:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:51] App\Log.DEBUG: sql运行时间:38.37ms  
+[2019-08-01 12:07:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:52] App\Log.DEBUG: sql运行时间:36.64ms  
+[2019-08-01 12:07:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:52] App\Log.DEBUG: sql运行时间:37.25ms  
+[2019-08-01 12:07:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:52] App\Log.DEBUG: sql运行时间:36.57ms  
+[2019-08-01 12:07:52] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:52] App\Log.DEBUG: sql运行时间:40.85ms  
+[2019-08-01 12:07:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:53] App\Log.DEBUG: sql运行时间:35.81ms  
+[2019-08-01 12:07:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:53] App\Log.DEBUG: sql运行时间:49.1ms  
+[2019-08-01 12:07:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:53] App\Log.DEBUG: sql运行时间:39.96ms  
+[2019-08-01 12:07:53] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:53] App\Log.DEBUG: sql运行时间:45.19ms  
+[2019-08-01 12:07:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:54] App\Log.DEBUG: sql运行时间:40.21ms  
+[2019-08-01 12:07:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:54] App\Log.DEBUG: sql运行时间:55.23ms  
+[2019-08-01 12:07:54] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:54] App\Log.DEBUG: sql运行时间:53.95ms  
+[2019-08-01 12:07:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:55] App\Log.DEBUG: sql运行时间:40.06ms  
+[2019-08-01 12:07:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:55] App\Log.DEBUG: sql运行时间:41.86ms  
+[2019-08-01 12:07:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:55] App\Log.DEBUG: sql运行时间:35.36ms  
+[2019-08-01 12:07:55] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:55] App\Log.DEBUG: sql运行时间:35.79ms  
+[2019-08-01 12:07:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:56] App\Log.DEBUG: sql运行时间:37.31ms  
+[2019-08-01 12:07:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:56] App\Log.DEBUG: sql运行时间:35.52ms  
+[2019-08-01 12:07:56] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:56] App\Log.DEBUG: sql运行时间:47.35ms  
+[2019-08-01 12:07:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:57] App\Log.DEBUG: sql运行时间:38.1ms  
+[2019-08-01 12:07:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:57] App\Log.DEBUG: sql运行时间:43.43ms  
+[2019-08-01 12:07:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:57] App\Log.DEBUG: sql运行时间:37.23ms  
+[2019-08-01 12:07:57] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:57] App\Log.DEBUG: sql运行时间:34.06ms  
+[2019-08-01 12:07:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:58] App\Log.DEBUG: sql运行时间:42.37ms  
+[2019-08-01 12:07:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:58] App\Log.DEBUG: sql运行时间:45.32ms  
+[2019-08-01 12:07:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:58] App\Log.DEBUG: sql运行时间:38.46ms  
+[2019-08-01 12:07:58] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:58] App\Log.DEBUG: sql运行时间:36.54ms  
+[2019-08-01 12:07:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:59] App\Log.DEBUG: sql运行时间:41.52ms  
+[2019-08-01 12:07:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:59] App\Log.DEBUG: sql运行时间:39.21ms  
+[2019-08-01 12:07:59] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:07:59] App\Log.DEBUG: sql运行时间:45.05ms  
+[2019-08-01 12:08:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:00] App\Log.DEBUG: sql运行时间:47ms  
+[2019-08-01 12:08:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:00] App\Log.DEBUG: sql运行时间:40.24ms  
+[2019-08-01 12:08:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:00] App\Log.DEBUG: sql运行时间:37.05ms  
+[2019-08-01 12:08:00] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:00] App\Log.DEBUG: sql运行时间:35.69ms  
+[2019-08-01 12:08:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:01] App\Log.DEBUG: sql运行时间:35.05ms  
+[2019-08-01 12:08:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:01] App\Log.DEBUG: sql运行时间:49.26ms  
+[2019-08-01 12:08:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:01] App\Log.DEBUG: sql运行时间:40.1ms  
+[2019-08-01 12:08:01] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:01] App\Log.DEBUG: sql运行时间:38.79ms  
+[2019-08-01 12:08:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:02] App\Log.DEBUG: sql运行时间:40.81ms  
+[2019-08-01 12:08:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:02] App\Log.DEBUG: sql运行时间:37.25ms  
+[2019-08-01 12:08:02] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:02] App\Log.DEBUG: sql运行时间:46.74ms  
+[2019-08-01 12:08:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:03] App\Log.DEBUG: sql运行时间:35.55ms  
+[2019-08-01 12:08:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:03] App\Log.DEBUG: sql运行时间:36.84ms  
+[2019-08-01 12:08:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:03] App\Log.DEBUG: sql运行时间:38.41ms  
+[2019-08-01 12:08:03] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:03] App\Log.DEBUG: sql运行时间:43.45ms  
+[2019-08-01 12:08:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:04] App\Log.DEBUG: sql运行时间:35.82ms  
+[2019-08-01 12:08:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:04] App\Log.DEBUG: sql运行时间:49.33ms  
+[2019-08-01 12:08:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:04] App\Log.DEBUG: sql运行时间:36.21ms  
+[2019-08-01 12:08:04] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:04] App\Log.DEBUG: sql运行时间:39.72ms  
+[2019-08-01 12:08:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:05] App\Log.DEBUG: sql运行时间:36.03ms  
+[2019-08-01 12:08:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:05] App\Log.DEBUG: sql运行时间:36.43ms  
+[2019-08-01 12:08:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:05] App\Log.DEBUG: sql运行时间:39.76ms  
+[2019-08-01 12:08:05] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:05] App\Log.DEBUG: sql运行时间:34.33ms  
+[2019-08-01 12:08:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:06] App\Log.DEBUG: sql运行时间:38.96ms  
+[2019-08-01 12:08:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:06] App\Log.DEBUG: sql运行时间:36.24ms  
+[2019-08-01 12:08:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:06] App\Log.DEBUG: sql运行时间:36.97ms  
+[2019-08-01 12:08:06] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:06] App\Log.DEBUG: sql运行时间:35.87ms  
+[2019-08-01 12:08:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:07] App\Log.DEBUG: sql运行时间:36.93ms  
+[2019-08-01 12:08:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:07] App\Log.DEBUG: sql运行时间:36.65ms  
+[2019-08-01 12:08:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:07] App\Log.DEBUG: sql运行时间:34.07ms  
+[2019-08-01 12:08:07] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:07] App\Log.DEBUG: sql运行时间:35.8ms  
+[2019-08-01 12:08:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:08] App\Log.DEBUG: sql运行时间:35.1ms  
+[2019-08-01 12:08:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:08] App\Log.DEBUG: sql运行时间:42.78ms  
+[2019-08-01 12:08:08] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:08] App\Log.DEBUG: sql运行时间:50.48ms  
+[2019-08-01 12:08:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:09] App\Log.DEBUG: sql运行时间:35.89ms  
+[2019-08-01 12:08:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:09] App\Log.DEBUG: sql运行时间:37.78ms  
+[2019-08-01 12:08:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:09] App\Log.DEBUG: sql运行时间:43.76ms  
+[2019-08-01 12:08:09] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:09] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 12:08:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:10] App\Log.DEBUG: sql运行时间:35.3ms  
+[2019-08-01 12:08:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:10] App\Log.DEBUG: sql运行时间:36.81ms  
+[2019-08-01 12:08:10] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by RAND(), args:[1]  
+[2019-08-01 12:08:10] App\Log.DEBUG: sql运行时间:35.47ms  

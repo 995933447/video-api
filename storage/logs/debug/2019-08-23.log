@@ -1,0 +1,14 @@
+[2019-08-23 06:14:42] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by `see_num` desc limit 30 offset 0, args:[1]  
+[2019-08-23 06:14:42] App\Log.DEBUG: sql运行时间:37.48ms  
+[2019-08-23 06:25:31] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-23 06:25:31] App\Log.DEBUG: sql运行时间:35.31ms  
+[2019-08-23 06:25:31] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `bottom_lists`.`id` in (%s), args:[1,null]  
+[2019-08-23 06:25:31] App\Log.DEBUG: sql运行时间:1.18ms  
+[2019-08-23 06:27:57] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-23 06:27:57] App\Log.DEBUG: sql运行时间:48.04ms  
+[2019-08-23 06:29:26] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-23 06:29:26] App\Log.DEBUG: sql运行时间:10.43ms  
+[2019-08-23 06:29:51] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-23 06:29:51] App\Log.DEBUG: sql运行时间:3.29ms  
+[2019-08-23 06:29:51] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `bottom_lists`.`column_id` in (1), args:[1]  
+[2019-08-23 06:29:51] App\Log.DEBUG: sql运行时间:20.66ms  

@@ -1,0 +1,20 @@
+<?php
+namespace App;
+
+use App\BottomList;
+use Illuminate\Database\Eloquent\Model;
+
+class BottomColumn extends Model
+{
+    public $connection = 'mysql_extend_cnf';
+
+    const STATUS_FIELD = 'status';
+    const PRIMARY_ID_FIELD = 'id';
+
+    const VALID_STATUS = 1;
+
+    public function bottomList()
+    {
+        return $this->hasMany(BottomList::class, BottomList::COLUMN_ID_FIELD, static::PRIMARY_ID_FIELD)->where(BottomList::STATUS_FIELD, BottomList::VALID_STATUS);
+    }
+}

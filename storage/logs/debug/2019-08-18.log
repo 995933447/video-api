@@ -1,0 +1,4 @@
+[2019-08-18 05:06:22] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `phone` = %s and `app_id` = %s) as `exists`, args:["'$value'",0]  
+[2019-08-18 05:06:22] App\Log.DEBUG: sql运行时间:11.22ms  
+[2019-08-18 05:06:32] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `phone` = %s and `app_id` = %s) as `exists`, args:["'$value'",0]  
+[2019-08-18 05:06:32] App\Log.DEBUG: sql运行时间:6.02ms  

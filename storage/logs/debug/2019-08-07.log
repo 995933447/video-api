@@ -1,0 +1,12 @@
+[2019-08-07 09:28:58] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s and `email` = %s) as `exists`, args:["'$value'","'$value'","'$value'"]  
+[2019-08-07 09:28:58] App\Log.DEBUG: sql运行时间:73.86ms  
+[2019-08-07 09:29:16] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s and `email` = %s) as `exists`, args:["'$value'","'$value'","'$value'"]  
+[2019-08-07 09:29:16] App\Log.DEBUG: sql运行时间:8.85ms  
+[2019-08-07 09:31:01] App\Log.DEBUG: 运行sql:insert into `failed_jobs` (`connection`, `queue`, `payload`, `exception`, `failed_at`) values (%s, %s, %s, %s, %s), args:["'$value'","'$value'","'$value'","'$value'","'2019-08-07 09:31:01'"]  
+[2019-08-07 09:31:01] App\Log.DEBUG: sql运行时间:54.05ms  
+[2019-08-07 09:41:06] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s and `email` = %s) as `exists`, args:["'$value'","'$value'","'$value'"]  
+[2019-08-07 09:41:06] App\Log.DEBUG: sql运行时间:36.96ms  
+[2019-08-07 09:41:33] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s and `email` = %s) as `exists`, args:["'$value'","'$value'","'$value'"]  
+[2019-08-07 09:41:33] App\Log.DEBUG: sql运行时间:7.3ms  
+[2019-08-07 09:43:54] App\Log.DEBUG: 运行sql:select exists(select * from `users` where `nickname` = %s and `app_id` = %s and `email` = %s) as `exists`, args:["'$value'","'$value'","'$value'"]  
+[2019-08-07 09:43:54] App\Log.DEBUG: sql运行时间:19.75ms  
