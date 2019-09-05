@@ -15,7 +15,7 @@ class SearchController
             new SearchVideos(
                 (int)$request->input('app_id'),
                 $request->input('keyword'),
-                $request->get('long_types') ? $request->get('long_types') : null,
+                $request->get('long_types') ?: null,
                 is_array($request->input('page')) && isset($request->input('page')[0]) ? (int) $request->input('page')[0] : 0,
                 is_array($request->input('page')) && isset($request->input('page')[1]) ? (int) $request->input('page')[1] : 0
             )
