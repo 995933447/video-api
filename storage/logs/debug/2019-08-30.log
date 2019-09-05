@@ -1,0 +1,18 @@
+[2019-08-30 10:54:11] App\Log.DEBUG: 运行sql:select * from `categories` where `status` = %s, args:[1]  
+[2019-08-30 10:54:11] App\Log.DEBUG: sql运行时间:373.21ms  
+[2019-08-30 10:54:11] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by `created_at` desc limit 20 offset 8, args:[1]  
+[2019-08-30 10:54:11] App\Log.DEBUG: sql运行时间:84.32ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `categories` where `status` = %s, args:[1]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:97.33ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by `created_at` desc limit 20 offset 8, args:[1]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:169.58ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `long_type` in (%s, %s) order by `created_at` desc limit 4, args:[1,"'$value'","'$value'"]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:79.24ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s order by `created_at` desc limit 6, args:[1]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:56.06ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `categories` where `id` in (%s) and `status` = %s, args:["'$value'",1]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:76.06ms  
+[2019-08-30 10:54:24] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `videos`.`category_id` in (696) order by `created_at` desc limit 7 offset 7, args:[1]  
+[2019-08-30 10:54:24] App\Log.DEBUG: sql运行时间:39.13ms  
+[2019-08-30 10:54:51] App\Log.DEBUG: 运行sql:select * from `videos` where `status` = %s and `id` = %s and `need_login` = %s limit 1, args:[1,11353,0]  
+[2019-08-30 10:54:51] App\Log.DEBUG: sql运行时间:209.59ms  

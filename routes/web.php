@@ -1445,6 +1445,70 @@ $router->post('/feedback', function (\Illuminate\Http\Request $request) {
     return End::toSuccessJson();
 });
 
-$router->get('/site-bottom', function () {
-    return End::toSuccessJson(\App\Repositories\SettingRepository::getBottom());
+/**
+ * @api {post} /site-bottom/:appId 获取底部栏目配置
+ * @apiName 获取底部栏目配置
+ * @apiGroup Setting
+ * @apiParam {Number} appId 应用ID,可选,传则根据uri格式附加在uri,传则根据应用ID获取所属应用分类（后台可配置应用拥有哪些分类）,不传则获取所有视频分类
+ *
+ * @apiSuccess (Success) {Number} status 状态码
+ * @apiSuccess (Success) {String} msg  消息
+ * @apiSuccess (Success) {Object} data 数据
+ *
+ * @apiSuccess (Success)Example Success-Response:
+ *     HTTP/1.1 200 OK
+ *     {
+ *        "status": 200,
+ *        "data": [],
+ *        "msg": "请求成功"
+ *     }
+ */
+$router->get('/site-bottom/{appId:[0-9]+}', function ($appId) {
+    return End::toSuccessJson(\App\Repositories\SettingRepository::getBottom($appId));
+});
+
+/**
+ * @api {post} /adverts/:appId 获取广告配置
+ * @apiName 获取广告配置
+ * @apiGroup Setting
+ * @apiParam {Number} appId 应用ID,可选,传则根据uri格式附加在uri,传则根据应用ID获取所属应用分类（后台可配置应用拥有哪些分类）,不传则获取所有视频分类
+ *
+ * @apiSuccess (Success) {Number} status 状态码
+ * @apiSuccess (Success) {String} msg  消息
+ * @apiSuccess (Success) {Object} data 数据
+ *
+ * @apiSuccess (Success)Example Success-Response:
+ *     HTTP/1.1 200 OK
+ *     {
+ *        "status": 200,
+ *        "data": [
+ *                  "id": 1,
+ *                   "name": "首页轮播图广告",
+ *                   "status": 1,
+ *                   "app_id": 1,
+ *                   "sort": 0,
+ *                   "remark": "",
+ *                   "created_at": "2019-08-19 01:56:03",
+ *                   "updated_at": "2019-08-19 01:56:03",
+ *                   "advert": [
+ *                       {
+ *                           "id": 4,
+ *                           "img": "images/1f9005bb57dff0289f761116d5bc1e64.jpg",
+ *                           "url": "http://www.baidu.com",
+ *                           "status": 1,
+ *                           "sort": 0,
+ *                           "remark": "",
+ *                           "started_at": null,
+ *                           "expired_at": null,
+ *                           "advert_position_id": 1,
+ *                           "created_at": "2019-09-01 02:41:14",
+ *                           "updated_at": "2019-09-01 02:41:14"
+ *                       },
+ *
+ *         ],
+ *        "msg": "请求成功"
+ *     }
+ */
+$router->get('/adverts/{appId:[0-9]+}', function ($appId) {
+    return End::toSuccessJson(\App\Repositories\SettingRepository::getAdverts($appId));
 });

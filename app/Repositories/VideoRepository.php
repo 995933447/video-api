@@ -2,11 +2,14 @@
 namespace App\Repositories;
 
 use App\Category;
+use App\Services\Redis\Key;
 use App\Subject;
 use App\Tag;
 use App\Video;
 use App\Services\ServiceCaller;
 use App\Services\Search\Tasks\SearchVideos;
+use Carbon\Carbon;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Auth;
 
 class VideoRepository
@@ -47,15 +50,23 @@ class VideoRepository
 
     public static function find(int $id): array
     {
+        $cacheKey = sprintf(Key::VIDEO_DETAIL, $id, (int)Auth::check());
+        if (Cache::has($cacheKey)) {
+            return Cache::get($cacheKey);
+        }
+
         $video = (new Video())->where(Video::STATUS_FIELD, Video::VALID_STATUS)->where(Video::PRIMARY_ID_FIELD, $id);
         if (!Auth::check()) {
             $video->where(Video::NEED_LOGIN_FIELD, Video::NEED_NOT_LOGIN_TYPE);
         }
 
         if ($result = $video->first()) {
-            return $result->makeVisible(Video::M3U8_FIELD)->toArray();
+            $result = $result->makeVisible(Video::M3U8_FIELD)->toArray();
         }
-        return [];
+
+        Cache::put($cacheKey, $result, Carbon::now()->addHour());
+
+        return $result ?: [];
     }
 
     public static function getByCategory(array $categoryIds = null, ?array $longTypes = null, array $page = null, ?array $order = null): array

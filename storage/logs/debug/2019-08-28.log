@@ -1,0 +1,8 @@
+[2019-08-28 10:44:36] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-28 10:44:36] App\Log.DEBUG: sql运行时间:693.58ms  
+[2019-08-28 10:44:36] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `bottom_lists`.`column_id` in (1, 2, 3), args:[1]  
+[2019-08-28 10:44:36] App\Log.DEBUG: sql运行时间:10.65ms  
+[2019-08-28 10:49:07] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-08-28 10:49:07] App\Log.DEBUG: sql运行时间:3809.74ms  
+[2019-08-28 10:49:08] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `bottom_lists`.`column_id` in (1, 2, 3), args:[1]  
+[2019-08-28 10:49:08] App\Log.DEBUG: sql运行时间:641.15ms  

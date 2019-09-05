@@ -1,0 +1,20 @@
+[2019-09-01 11:35:31] App\Log.DEBUG: 运行sql:select * from `advert_positions` where `status` = %s, args:[1]  
+[2019-09-01 11:35:31] App\Log.DEBUG: sql运行时间:1358.86ms  
+[2019-09-01 11:35:32] App\Log.DEBUG: 运行sql:select * from `adverts` where `status` = %s and `adverts`.`advert_position_id` in (1), args:[1]  
+[2019-09-01 11:35:32] App\Log.DEBUG: sql运行时间:174.67ms  
+[2019-09-01 13:44:01] App\Log.DEBUG: 运行sql:select * from `advert_positions` where `status` = %s, args:[1]  
+[2019-09-01 13:44:01] App\Log.DEBUG: sql运行时间:4078.75ms  
+[2019-09-01 13:44:01] App\Log.DEBUG: 运行sql:select * from `adverts` where `status` = %s and `app_id` = %s and `adverts`.`advert_position_id` in (2, 3, 4, 5, 6), args:[1,1]  
+[2019-09-01 13:44:01] App\Log.DEBUG: sql运行时间:236.33ms  
+[2019-09-01 13:45:58] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-09-01 13:45:58] App\Log.DEBUG: sql运行时间:1485.85ms  
+[2019-09-01 13:45:59] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `app_id` = %s and `bottom_lists`.`column_id` in (1, 2, 3), args:[1,1]  
+[2019-09-01 13:45:59] App\Log.DEBUG: sql运行时间:288.15ms  
+[2019-09-01 13:51:00] App\Log.DEBUG: 运行sql:select * from `advert_positions` where `status` = %s, args:[1]  
+[2019-09-01 13:51:00] App\Log.DEBUG: sql运行时间:1456.23ms  
+[2019-09-01 13:51:01] App\Log.DEBUG: 运行sql:select * from `adverts` where `status` = %s and `app_id` = %s and `adverts`.`advert_position_id` in (2, 3, 4, 5, 6), args:[1,1]  
+[2019-09-01 13:51:01] App\Log.DEBUG: sql运行时间:303.83ms  
+[2019-09-01 13:51:26] App\Log.DEBUG: 运行sql:select * from `bottom_columns` where `status` = %s, args:[1]  
+[2019-09-01 13:51:26] App\Log.DEBUG: sql运行时间:4498.4ms  
+[2019-09-01 13:51:26] App\Log.DEBUG: 运行sql:select * from `bottom_lists` where `status` = %s and `app_id` = %s and `bottom_lists`.`column_id` in (1, 2, 3), args:[1,1]  
+[2019-09-01 13:51:26] App\Log.DEBUG: sql运行时间:268.87ms  

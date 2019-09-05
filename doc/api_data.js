@@ -444,6 +444,118 @@ define({ "api": [
   },
   {
     "type": "post",
+    "url": "/adverts/:appId",
+    "title": "获取广告配置",
+    "name": "______",
+    "group": "Setting",
+    "parameter": {
+      "fields": {
+        "Parameter": [
+          {
+            "group": "Parameter",
+            "type": "Number",
+            "optional": false,
+            "field": "appId",
+            "description": "<p>应用ID,可选,传则根据uri格式附加在uri,传则根据应用ID获取所属应用分类（后台可配置应用拥有哪些分类）,不传则获取所有视频分类</p>"
+          }
+        ]
+      }
+    },
+    "success": {
+      "fields": {
+        "Success": [
+          {
+            "group": "Success",
+            "type": "Number",
+            "optional": false,
+            "field": "status",
+            "description": "<p>状态码</p>"
+          },
+          {
+            "group": "Success",
+            "type": "String",
+            "optional": false,
+            "field": "msg",
+            "description": "<p>消息</p>"
+          },
+          {
+            "group": "Success",
+            "type": "Object",
+            "optional": false,
+            "field": "data",
+            "description": "<p>数据</p>"
+          },
+          {
+            "group": "Success",
+            "optional": false,
+            "field": "Example",
+            "description": "<p>Success-Response: HTTP/1.1 200 OK { &quot;status&quot;: 200, &quot;data&quot;: [ &quot;id&quot;: 1, &quot;name&quot;: &quot;首页轮播图广告&quot;, &quot;status&quot;: 1, &quot;app_id&quot;: 1, &quot;sort&quot;: 0, &quot;remark&quot;: &quot;&quot;, &quot;created_at&quot;: &quot;2019-08-19 01:56:03&quot;, &quot;updated_at&quot;: &quot;2019-08-19 01:56:03&quot;, &quot;advert&quot;: [ { &quot;id&quot;: 4, &quot;img&quot;: &quot;images/1f9005bb57dff0289f761116d5bc1e64.jpg&quot;, &quot;url&quot;: &quot;http://www.baidu.com&quot;, &quot;status&quot;: 1, &quot;sort&quot;: 0, &quot;remark&quot;: &quot;&quot;, &quot;started_at&quot;: null, &quot;expired_at&quot;: null, &quot;advert_position_id&quot;: 1, &quot;created_at&quot;: &quot;2019-09-01 02:41:14&quot;, &quot;updated_at&quot;: &quot;2019-09-01 02:41:14&quot; },</p> <pre><code>    ],    &quot;msg&quot;: &quot;请求成功&quot; }</code></pre>"
+          }
+        ]
+      }
+    },
+    "version": "0.0.0",
+    "filename": "routes/web.php",
+    "groupTitle": "Setting"
+  },
+  {
+    "type": "post",
+    "url": "/site-bottom/:appId",
+    "title": "获取底部栏目配置",
+    "name": "________",
+    "group": "Setting",
+    "parameter": {
+      "fields": {
+        "Parameter": [
+          {
+            "group": "Parameter",
+            "type": "Number",
+            "optional": false,
+            "field": "appId",
+            "description": "<p>应用ID,可选,传则根据uri格式附加在uri,传则根据应用ID获取所属应用分类（后台可配置应用拥有哪些分类）,不传则获取所有视频分类</p>"
+          }
+        ]
+      }
+    },
+    "success": {
+      "fields": {
+        "Success": [
+          {
+            "group": "Success",
+            "type": "Number",
+            "optional": false,
+            "field": "status",
+            "description": "<p>状态码</p>"
+          },
+          {
+            "group": "Success",
+            "type": "String",
+            "optional": false,
+            "field": "msg",
+            "description": "<p>消息</p>"
+          },
+          {
+            "group": "Success",
+            "type": "Object",
+            "optional": false,
+            "field": "data",
+            "description": "<p>数据</p>"
+          },
+          {
+            "group": "Success",
+            "optional": false,
+            "field": "Example",
+            "description": "<p>Success-Response: HTTP/1.1 200 OK { &quot;status&quot;: 200, &quot;data&quot;: [], &quot;msg&quot;: &quot;请求成功&quot; }</p>"
+          }
+        ]
+      }
+    },
+    "version": "0.0.0",
+    "filename": "routes/web.php",
+    "groupTitle": "Setting"
+  },
+  {
+    "type": "post",
     "url": "/user/video/:videoId/collect",
     "title": "用户收藏视频(User collect video)",
     "name": "User_collect_video________",
@@ -1188,64 +1300,6 @@ define({ "api": [
   },
   {
     "type": "post",
-    "url": "/logout",
-    "title": "会员退出登录",
-    "name": "______",
-    "group": "User",
-    "parameter": {
-      "fields": {
-        "Parameter": [
-          {
-            "group": "Parameter",
-            "type": "String",
-            "optional": false,
-            "field": "token",
-            "description": "<p>用户登录后返回的Token，需携带在http header的Authorization字段，例:Authorization Bearer xxxxxx</p>"
-          }
-        ]
-      }
-    },
-    "success": {
-      "fields": {
-        "Success": [
-          {
-            "group": "Success",
-            "type": "Number",
-            "optional": false,
-            "field": "status",
-            "description": "<p>状态码</p>"
-          },
-          {
-            "group": "Success",
-            "type": "String",
-            "optional": false,
-            "field": "msg",
-            "description": "<p>消息</p>"
-          },
-          {
-            "group": "Success",
-            "optional": false,
-            "field": "Example",
-            "description": "<p>Success-Response: HTTP/1.1 200 OK { &quot;status&quot;: 200, &quot;data&quot;: [], &quot;msg&quot;: &quot;请求成功&quot; }</p>"
-          }
-        ]
-      }
-    },
-    "error": {
-      "examples": [
-        {
-          "title": "ValidationError:",
-          "content": " {\n  \"status\": 401,\n  \"msg\": \"请求错误\",\n   \"data\": {\n   }\n}",
-          "type": "json"
-        }
-      ]
-    },
-    "version": "0.0.0",
-    "filename": "routes/web.php",
-    "groupTitle": "User"
-  },
-  {
-    "type": "post",
     "url": "/reset/password",
     "title": "主动重置密码",
     "name": "______",
@@ -1325,6 +1379,64 @@ define({ "api": [
   },
   {
     "type": "post",
+    "url": "/logout",
+    "title": "会员退出登录",
+    "name": "______",
+    "group": "User",
+    "parameter": {
+      "fields": {
+        "Parameter": [
+          {
+            "group": "Parameter",
+            "type": "String",
+            "optional": false,
+            "field": "token",
+            "description": "<p>用户登录后返回的Token，需携带在http header的Authorization字段，例:Authorization Bearer xxxxxx</p>"
+          }
+        ]
+      }
+    },
+    "success": {
+      "fields": {
+        "Success": [
+          {
+            "group": "Success",
+            "type": "Number",
+            "optional": false,
+            "field": "status",
+            "description": "<p>状态码</p>"
+          },
+          {
+            "group": "Success",
+            "type": "String",
+            "optional": false,
+            "field": "msg",
+            "description": "<p>消息</p>"
+          },
+          {
+            "group": "Success",
+            "optional": false,
+            "field": "Example",
+            "description": "<p>Success-Response: HTTP/1.1 200 OK { &quot;status&quot;: 200, &quot;data&quot;: [], &quot;msg&quot;: &quot;请求成功&quot; }</p>"
+          }
+        ]
+      }
+    },
+    "error": {
+      "examples": [
+        {
+          "title": "ValidationError:",
+          "content": " {\n  \"status\": 401,\n  \"msg\": \"请求错误\",\n   \"data\": {\n   }\n}",
+          "type": "json"
+        }
+      ]
+    },
+    "version": "0.0.0",
+    "filename": "routes/web.php",
+    "groupTitle": "User"
+  },
+  {
+    "type": "post",
     "url": "/forget-password/reset",
     "title": "找回密码重置密码",
     "name": "________",
@@ -1336,8 +1448,15 @@ define({ "api": [
             "group": "Parameter",
             "type": "String",
             "optional": false,
-            "field": "nickname",
-            "description": "<p>用户名</p>"
+            "field": "phone",
+            "description": "<p>手机号码,可选</p>"
+          },
+          {
+            "group": "Parameter",
+            "type": "String",
+            "optional": false,
+            "field": "email",
+            "description": "<p>邮箱,可选</p>"
           },
           {
             "group": "Parameter",

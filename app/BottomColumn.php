@@ -3,10 +3,12 @@ namespace App;
 
 use App\BottomList;
 use Illuminate\Database\Eloquent\Model;
+use App\CnfBase;
+use App\AppTrait;
 
-class BottomColumn extends Model
+class BottomColumn extends CnfBase
 {
-    public $connection = 'mysql_extend_cnf';
+    use AppTrait;
 
     const STATUS_FIELD = 'status';
     const PRIMARY_ID_FIELD = 'id';
@@ -15,6 +17,8 @@ class BottomColumn extends Model
 
     public function bottomList()
     {
-        return $this->hasMany(BottomList::class, BottomList::COLUMN_ID_FIELD, static::PRIMARY_ID_FIELD)->where(BottomList::STATUS_FIELD, BottomList::VALID_STATUS);
+        return $this->hasMany(BottomList::class, BottomList::COLUMN_ID_FIELD, static::PRIMARY_ID_FIELD)
+            ->where(BottomList::STATUS_FIELD, BottomList::VALID_STATUS)
+            ->where(BottomList::APP_ID_FIELD, $this->getAppId());
     }
 }
