@@ -24,7 +24,7 @@ class UserController
 {
     public function resetPassword(Request $request)
     {
-        $parseValidateResult = ServiceCaller::call(ServiceCaller::PARSE_VALIDATOR_SERVICE,ResetPassword::class, $request->all());
+        $parseValidateResult = ServiceCaller::call(ServiceCaller::PARSE_VALIDATOR_SERVICE, ResetPassword::class, $request->all());
         if ($parseValidateResult->errors) {
             return End::toFailureJson($parseValidateResult->errors, End::VALIDATE_ERROR);
         }
